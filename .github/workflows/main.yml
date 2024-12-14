@@ -27,6 +27,8 @@ jobs:
           OAUTH_ACCESS_TOKEN: ${{ secrets.OAUTH_ACCESS_TOKEN }}
           OAUTH_ACCESS_TOKEN_SECRET: ${{ secrets.OAUTH_ACCESS_TOKEN_SECRET }}
           XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
+        with:
+          args: python .
 
       - name: Commit and push changes
         uses: EndBug/add-and-commit@v9

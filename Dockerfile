@@ -2,10 +2,15 @@ FROM python:3.11-slim
 
 WORKDIR /app
 
+# Install dependencies
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-COPY src/feed_bot ./feed_bot
-COPY rss_feeds.txt .
+# Create a non-root user with UID 1001
+RUN useradd -m -u 1001 appuser
+USER appuser
 
-CMD ["python", "-m", "feed_bot"]
+# Set the working directory to appuser's home
+WORKDIR /home/appuser
+
+CMD ["python", "."]

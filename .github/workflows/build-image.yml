@@ -5,7 +5,6 @@ on:
     paths:
       - 'Dockerfile'
       - 'requirements.txt'
-      - 'src/feed_bot/**'
     branches:
       - main
   workflow_dispatch:
