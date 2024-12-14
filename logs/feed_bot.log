@@ -49,3 +49,10 @@ URL: **https://blogs.loc.gov/copyright/2024/11/celebrating-native-american-histo
 2024-12-14 09:11:09,970 - INFO - Generated tweet: 🗺️ Ever wondered how copyright registrations vary across the U.S.? Check out this insightful report from the U.S. Copyright Office that dives into the geographic patterns of copyright claims. 📝 #Copyright #CreativityAtWork [https://blogs.loc.gov/copyright/2024/10/the-geography-of-copyright-registrations-a-look-at-how-registration-differs-across-the-country/?loclr=eacop]
 2024-12-14 09:11:10,235 - INFO - Tweet posted successfully: {'data': {'text': '🗺️ Ever wondered how copyright registrations vary across the U.S.? Check out this insightful report from the U.S. Copyright Office that dives into the geographic patterns of copyright claims. 📝 #Copyright #CreativityAtWork [https://t.co/u6oQE4xj4p] https://t.co/lM12gWtmPb', 'edit_history_tweet_ids': ['1867859866934526005'], 'id': '1867859866934526005'}}
 2024-12-14 09:11:10,235 - INFO - Updated article history
+2024-12-14 11:08:55,117 - INFO - Selected feed: https://rweekly.org/atom.xml
+2024-12-14 11:08:55,896 - INFO - Found article: R Weekly 2024-W50 R-Universe Funding, Positron, AI for Shiny
+2024-12-14 11:09:00,022 - INFO - Generated tweet: Here's an engaging tweet about the article:
+
+🚀 Big news for R users! R-Universe has just been named the R Consortium’s Newest Top Level Project. Dive into what this means for the future of R development and how it could impact your work. Plus, explore the latest on Positron vs RStudio, AI for Shiny, and much more in this week's R Weekly! 📰 [URL] #RStats #DataScience
+2024-12-14 11:09:00,321 - INFO - Tweet posted successfully: {'data': {'id': '1867889521133572482', 'edit_history_tweet_ids': ['1867889521133572482'], 'text': "Here's an engaging tweet about the article:\n\n🚀 Big news for R users! R-Universe has just been named the R Consortium’s Newest Top Level Project. Dive into what this means for the future of R development and how it could impact your work. Plus, explore the latest on Positron vs…"}}
+2024-12-14 11:09:00,321 - INFO - Updated article history
