@@ -13,3 +13,10 @@
 2024-12-14 02:53:10,716 - INFO - Generated tweet: 🚀 Big news for #Fluentd users! 🎉 fluent-package v5.2.0 is out, bringing zero-downtime upgrades and more! 🛠️ Check out the latest updates here: [https://www.fluentd.org/blog/fluent-package-v5.2.0-has-been-released](https://www.fluentd.org/blog/fluent-package-v5.2.0-has-been-released) #Logging #DevOps #TechUpdate
 2024-12-14 02:53:10,997 - INFO - Tweet posted successfully: {'data': {'id': '1867764743265825215', 'text': '🚀 Big news for #Fluentd users! 🎉 fluent-package v5.2.0 is out, bringing zero-downtime upgrades and more! 🛠️ Check out the latest updates here: [https://t.co/CHwHSFDa7l](https://t.co/CHwHSFDa7l) #Logging #DevOps #TechUpdate', 'edit_history_tweet_ids': ['1867764743265825215']}}
 2024-12-14 02:53:10,997 - INFO - Updated article history
+2024-12-14 03:24:51,931 - INFO - Selected feed: https://blog.sqlauthority.com/feed/
+2024-12-14 03:24:52,657 - INFO - Found article: Apache Spark and Airflow in Action : My Experience
+2024-12-14 03:24:55,069 - INFO - Generated tweet: Here's an engaging tweet about the article:
+
+Dive into the world of big data with me! I've been working with Apache Spark and Airflow, and let me tell you, they're a game-changer! From speeding up data processing to scheduling tasks effortlessly, these tools are amazing. Check out my experience: [https://blog.sqlauthority.com/2024/11/28/apache-spark-and-airflow-in-action-my-experience/](#) #DataScience #ApacheSpark #ApacheAirflow
+2024-12-14 03:24:55,343 - INFO - Tweet posted successfully: {'data': {'id': '1867772730818302122', 'edit_history_tweet_ids': ['1867772730818302122'], 'text': "Here's an engaging tweet about the article:\n\nDive into the world of big data with me! I've been working with Apache Spark and Airflow, and let me tell you, they're a game-changer! From speeding up data processing to scheduling tasks effortlessly, these tools are amazing. Check…"}}
+2024-12-14 03:24:55,344 - INFO - Updated article history
