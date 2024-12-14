@@ -53,7 +53,13 @@ class RssTweetBot:
         """Read RSS feed URLs from file and select a random one."""
         with open(file_path, 'r') as f:
             feeds = f.read().splitlines()
-            return random.choice([f for f in feeds if f and not f.startswith('#')])
+            # Filter out empty lines and comments, then get only the URL part before '!'
+            valid_feeds = []
+            for line in feeds:
+                if line and not line.startswith('#'):
+                    url = line.split('!')[0].strip()
+                    valid_feeds.append(url)
+            return random.choice(valid_feeds)
 
     def get_latest_article(self, feed_url):
         """Get the latest article from the RSS feed."""
