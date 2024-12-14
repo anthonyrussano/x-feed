@@ -46,6 +46,10 @@ class RssTweetBot:
             'url': article_url,
             'date': datetime.now().isoformat()
         })
+        
+        # Ensure the logs directory exists
+        os.makedirs('logs', exist_ok=True)
+        
         with open(self.history_file, 'w') as f:
             json.dump(self.posted_articles, f, indent=2)
 
@@ -92,7 +96,7 @@ class RssTweetBot:
                 "messages": [
                     {
                         "role": "system",
-                        "content": "You are a social media expert who creates engaging tweets. Your tweets should be informative yet conversational, and always include the article URL at the end."
+                        "content": "You are a social media expert who creates engaging tweets. Your tweets should be informative yet conversational. IMPORTANT: Replace any [URL] placeholder with the actual article URL in your response. The full article URL must be included in the tweet."
                     },
                     {
                         "role": "user",
@@ -144,6 +148,13 @@ def main():
         # Generate tweet
         tweet = bot.generate_tweet(article)
         logging.info(f"Generated tweet: {tweet}")
+        
+        # Ensure URL is in the tweet, add it if missing
+        if article['link'] not in tweet:
+            if '[URL]' in tweet:
+                tweet = tweet.replace('[URL]', article['link'])
+            else:
+                tweet = f"{tweet.rstrip()} {article['link']}"
         
         # Post tweet
         response = bot.post_tweet(tweet)
