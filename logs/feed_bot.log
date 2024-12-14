@@ -3,3 +3,8 @@
 2024-12-14 01:22:04,892 - INFO - Generated tweet: 🏆 Big congrats to 3 @NIST researchers for snagging the highest honor - the **Distinguished Rank** Presidential Award! Their dedication to science is truly inspiring. Read more about their incredible achievements here: [URL] #Science #Innovation #Awards
 2024-12-14 01:22:05,174 - INFO - Tweet posted successfully: {'data': {'edit_history_tweet_ids': ['1867741817984446745'], 'id': '1867741817984446745', 'text': '🏆 Big congrats to 3 @NIST researchers for snagging the highest honor - the **Distinguished Rank** Presidential Award! Their dedication to science is truly inspiring. Read more about their incredible achievements here: [URL] #Science #Innovation #Awards'}}
 2024-12-14 01:22:05,174 - INFO - Updated article history
+2024-12-14 01:27:15,273 - INFO - Selected feed: https://www.kali.org/rss.xml
+2024-12-14 01:27:16,235 - INFO - Found article: Contributing to Kali
+2024-12-14 01:27:17,407 - INFO - Generated tweet: Ever wondered how you can contribute to Kali Linux? From documentation to hardware testing, there are multiple ways to pitch in! Dive into the community and make your mark. Learn how at [URL] #KaliLinux #OpenSource #Contribute
+2024-12-14 01:27:17,683 - INFO - Tweet posted successfully: {'data': {'edit_history_tweet_ids': ['1867743128813232318'], 'id': '1867743128813232318', 'text': 'Ever wondered how you can contribute to Kali Linux? From documentation to hardware testing, there are multiple ways to pitch in! Dive into the community and make your mark. Learn how at https://t.co/BIobG6EfMh #KaliLinux #OpenSource #Contribute'}}
+2024-12-14 01:27:17,684 - INFO - Updated article history
