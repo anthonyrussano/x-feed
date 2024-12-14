@@ -8,3 +8,8 @@
 2024-12-14 01:27:17,407 - INFO - Generated tweet: Ever wondered how you can contribute to Kali Linux? From documentation to hardware testing, there are multiple ways to pitch in! Dive into the community and make your mark. Learn how at [URL] #KaliLinux #OpenSource #Contribute
 2024-12-14 01:27:17,683 - INFO - Tweet posted successfully: {'data': {'edit_history_tweet_ids': ['1867743128813232318'], 'id': '1867743128813232318', 'text': 'Ever wondered how you can contribute to Kali Linux? From documentation to hardware testing, there are multiple ways to pitch in! Dive into the community and make your mark. Learn how at https://t.co/BIobG6EfMh #KaliLinux #OpenSource #Contribute'}}
 2024-12-14 01:27:17,684 - INFO - Updated article history
+2024-12-14 02:53:08,086 - INFO - Selected feed: https://www.fluentd.org/blog/feed.rss
+2024-12-14 02:53:08,297 - INFO - Found article: fluent-package v5.2.0 has been released
+2024-12-14 02:53:10,716 - INFO - Generated tweet: 🚀 Big news for #Fluentd users! 🎉 fluent-package v5.2.0 is out, bringing zero-downtime upgrades and more! 🛠️ Check out the latest updates here: [https://www.fluentd.org/blog/fluent-package-v5.2.0-has-been-released](https://www.fluentd.org/blog/fluent-package-v5.2.0-has-been-released) #Logging #DevOps #TechUpdate
+2024-12-14 02:53:10,997 - INFO - Tweet posted successfully: {'data': {'id': '1867764743265825215', 'text': '🚀 Big news for #Fluentd users! 🎉 fluent-package v5.2.0 is out, bringing zero-downtime upgrades and more! 🛠️ Check out the latest updates here: [https://t.co/CHwHSFDa7l](https://t.co/CHwHSFDa7l) #Logging #DevOps #TechUpdate', 'edit_history_tweet_ids': ['1867764743265825215']}}
+2024-12-14 02:53:10,997 - INFO - Updated article history
