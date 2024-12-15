@@ -161,3 +161,14 @@ Read all about it here: [https://www.redhat.com/en/blog/friday-five-december-13-
 2024-12-15 13:18:44,009 - INFO - Generated tweet: 🚨 Great news for North Dakota! FEMA just approved $5.9 million to help recover from the 2022 winter storms and flooding. This funding will cover all eligible costs for the state's emergency services. Learn more about how FEMA helps communities recover: [https://www.fema.gov/assistance/public/program-overview](https://www.fema.gov/press-release/20241118/fema-approves-59-million-north-dakota-department-emergency-services) #FEMA #DisasterRecovery #NorthDakota
 2024-12-15 13:18:44,355 - INFO - Tweet posted successfully: {'data': {'id': '1868284557507633610', 'edit_history_tweet_ids': ['1868284557507633610'], 'text': "🚨 Great news for North Dakota! FEMA just approved $5.9 million to help recover from the 2022 winter storms and flooding. This funding will cover all eligible costs for the state's emergency services. Learn more about how FEMA helps communities recover:…"}}
 2024-12-15 13:18:44,355 - INFO - Updated article history
+2024-12-15 14:09:46,051 - INFO - Selected feed: https://www.r-bloggers.com/feed/
+2024-12-15 14:09:46,816 - INFO - Found article: Death rates by cause of death by @ellis2013nz
+2024-12-15 14:09:50,229 - INFO - Generated tweet: Here's an engaging tweet about the article:
+
+🚨 Fascinating analysis by @ellis2013nz on why the USA has lower life expectancy despite high health spend. Factors like diet, housing, and social conditions play a bigger role than you might think. Dive into the data here: [URL] #DataScience #PublicHealth #USAHealth
+
+Replace [URL] with: 
+
+https://www.r-bloggers.com/2024/12/death-rates-by-cause-of-death-by-ellis2013nz/
+2024-12-15 14:09:50,519 - INFO - Tweet posted successfully: {'data': {'edit_history_tweet_ids': ['1868297418011558223'], 'text': "Here's an engaging tweet about the article:\n\n🚨 Fascinating analysis by @ellis2013nz on why the USA has lower life expectancy despite high health spend. Factors like diet, housing, and social conditions play a bigger role than you might think. Dive into the data here: [URL]…", 'id': '1868297418011558223'}}
+2024-12-15 14:09:50,520 - INFO - Updated article history
