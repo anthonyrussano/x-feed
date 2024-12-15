@@ -205,3 +205,10 @@ https://www.r-bloggers.com/2024/12/death-rates-by-cause-of-death-by-ellis2013nz/
 2024-12-15 19:08:27,391 - INFO - Generated tweet: Ever wondered how to make postmortems easier to write? Check out how @Datadog optimized LLMs for cost, quality, and safety to streamline the process. 📝✨ Learn more: [URL] #TechInnovation #Postmortems #AIAssistedWriting
 2024-12-15 19:08:27,659 - INFO - Tweet posted successfully: {'data': {'id': '1868372567850910131', 'text': 'Ever wondered how to make postmortems easier to write? Check out how @Datadog optimized LLMs for cost, quality, and safety to streamline the process. 📝✨ Learn more: https://t.co/Lf7BTADfAW #TechInnovation #Postmortems #AIAssistedWriting', 'edit_history_tweet_ids': ['1868372567850910131']}}
 2024-12-15 19:08:27,659 - INFO - Updated article history
+2024-12-15 20:12:04,795 - INFO - Selected feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCZUyPT9DkJWmS_DzdOi7RIA
+2024-12-15 20:12:04,913 - INFO - Found article: CAP Theorem - Consistency, Availability and Partition Tolerance - System Design
+2024-12-15 20:12:06,876 - INFO - Generated tweet: 🧠 Dive into the CAP Theorem in system design! 🧑‍💻 Learn how Consistency, Availability, and Partition Tolerance play a crucial role in designing robust systems. 📽️ Check out this detailed video for insights: [URL] #SystemDesign #TechExplained #LearnWithCaleb
+
+[URL]: https://www.youtube.com/watch?v=t5WPGMXOtds
+2024-12-15 20:12:07,281 - INFO - Tweet posted successfully: {'data': {'edit_history_tweet_ids': ['1868388588343222703'], 'text': '🧠 Dive into the CAP Theorem in system design! 🧑\u200d💻 Learn how Consistency, Availability, and Partition Tolerance play a crucial role in designing robust systems. 📽️ Check out this detailed video for insights: [URL] #SystemDesign #TechExplained #LearnWithCaleb\n\n[URL]:…', 'id': '1868388588343222703'}}
+2024-12-15 20:12:07,281 - INFO - Updated article history
