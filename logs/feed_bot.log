@@ -212,3 +212,8 @@ https://www.r-bloggers.com/2024/12/death-rates-by-cause-of-death-by-ellis2013nz/
 [URL]: https://www.youtube.com/watch?v=t5WPGMXOtds
 2024-12-15 20:12:07,281 - INFO - Tweet posted successfully: {'data': {'edit_history_tweet_ids': ['1868388588343222703'], 'text': '🧠 Dive into the CAP Theorem in system design! 🧑\u200d💻 Learn how Consistency, Availability, and Partition Tolerance play a crucial role in designing robust systems. 📽️ Check out this detailed video for insights: [URL] #SystemDesign #TechExplained #LearnWithCaleb\n\n[URL]:…', 'id': '1868388588343222703'}}
 2024-12-15 20:12:07,281 - INFO - Updated article history
+2024-12-15 21:10:09,081 - INFO - Selected feed: https://www.datadoghq.com/blog/engineering/index.xml
+2024-12-15 21:10:09,189 - INFO - Found article: Timeseries indexing at scale
+2024-12-15 21:10:10,664 - INFO - Generated tweet: Ever wondered how Datadog manages billions of events from millions of hosts every minute? Check out this deep dive into their innovative timeseries indexing solution that's scaling up to meet the sophisticated needs of modern data analysis. 🚀🔍 [URL](https://www.datadoghq.com/blog/engineering/timeseries-indexing-at-scale/)
+2024-12-15 21:10:10,911 - INFO - Tweet posted successfully: {'data': {'text': "Ever wondered how Datadog manages billions of events from millions of hosts every minute? Check out this deep dive into their innovative timeseries indexing solution that's scaling up to meet the sophisticated needs of modern data analysis. 🚀🔍 [URL](https://t.co/n4Ivb1raNb)", 'edit_history_tweet_ids': ['1868403199926771819'], 'id': '1868403199926771819'}}
+2024-12-15 21:10:10,912 - INFO - Updated article history
