@@ -149,3 +149,10 @@ Read all about it here: [https://www.redhat.com/en/blog/friday-five-december-13-
 2024-12-15 11:09:11,058 - INFO - Generated tweet: 🚀 Ready to level up your IT operations with AI? Check out how automation is the key to success in this insightful piece from Red Hat! #AI #Automation #ITOperations [https://www.redhat.com/en/blog/infusing-ai-it-operations]
 2024-12-15 11:09:11,390 - INFO - Tweet posted successfully: {'data': {'text': '🚀 Ready to level up your IT operations with AI? Check out how automation is the key to success in this insightful piece from Red Hat! #AI #Automation #ITOperations [https://t.co/6VMWI9XB2e]', 'id': '1868251955287707677', 'edit_history_tweet_ids': ['1868251955287707677']}}
 2024-12-15 11:09:11,391 - INFO - Updated article history
+2024-12-15 12:20:34,675 - INFO - Selected feed: https://blog.jetbrains.com/pycharm/feed/
+2024-12-15 12:20:34,860 - INFO - Found article: Introduction to Sentiment Analysis in Python
+2024-12-15 12:20:38,261 - INFO - Generated tweet: Here's an engaging tweet about the article:
+
+"🔍 Dive into the world of Sentiment Analysis with Python! Learn how to gauge emotions in text, from customer reviews to social media posts. Explore top tools like VADER, NLTK, and more in our latest blog post. Get your FREE 3-month PyCharm subscription with code **PCSA24**! [URL] #NLP #Python #SentimentAnalysis"
+2024-12-15 12:20:38,577 - INFO - Tweet posted successfully: {'data': {'edit_history_tweet_ids': ['1868269937141194980'], 'text': 'Here\'s an engaging tweet about the article:\n\n"🔍 Dive into the world of Sentiment Analysis with Python! Learn how to gauge emotions in text, from customer reviews to social media posts. Explore top tools like VADER, NLTK, and more in our latest blog post. Get your FREE 3-month…', 'id': '1868269937141194980'}}
+2024-12-15 12:20:38,578 - INFO - Updated article history
