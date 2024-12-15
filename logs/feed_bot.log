@@ -108,3 +108,14 @@ URL: **https://blogs.loc.gov/copyright/2024/11/celebrating-native-american-histo
 2024-12-14 22:10:23,098 - INFO - Generated tweet: 🔥 Trending in Congress! Check out the top 10 most-viewed bills of the week, from the Social Security Fairness Act to the Farmer First Fuel Incentives Act. Dive into what's catching lawmakers' eyes! 📜 #Congress #Legislation #TrendingBills [URL](https://www.congress.gov/most-viewed-bills)
 2024-12-14 22:10:23,364 - INFO - Tweet posted successfully: {'data': {'text': "🔥 Trending in Congress! Check out the top 10 most-viewed bills of the week, from the Social Security Fairness Act to the Farmer First Fuel Incentives Act. Dive into what's catching lawmakers' eyes! 📜 #Congress #Legislation #TrendingBills [URL](https://t.co/nefObzPWgl)", 'id': '1868055963808248148', 'edit_history_tweet_ids': ['1868055963808248148']}}
 2024-12-14 22:10:23,364 - INFO - Updated article history
+2024-12-15 03:03:08,181 - INFO - Selected feed: https://www.redhat.com/en/rss/blog/channel/devops-and-devsecops
+2024-12-15 03:03:08,286 - INFO - Found article: Friday Five — December 13, 2024
+2024-12-15 03:03:11,846 - INFO - Generated tweet: 🚨 Big news from @RedHat! 
+
+- **Red Hat Summit & AnsibleFest** is set for May 19-22 in Boston. Get ready to dive into the latest in IT and open source. 🎉
+
+- **Red Hat Enterprise Linux AI 1.3** is out now with enhanced AI capabilities. Learn how it's pushing the boundaries of innovation. 🚀
+
+Read all about it here: [https://www.redhat.com/en/blog/friday-five-december-13-2024-red-hat](https://www.redhat.com/en/blog/friday-five-december-13-2024-red-hat) #RedHat #AIInnovation #TechEvents
+2024-12-15 03:03:12,195 - INFO - Tweet posted successfully: {'data': {'text': "🚨 Big news from @RedHat! \n\n- **Red Hat Summit &amp; AnsibleFest** is set for May 19-22 in Boston. Get ready to dive into the latest in IT and open source. 🎉\n\n- **Red Hat Enterprise Linux AI 1.3** is out now with enhanced AI capabilities. Learn how it's pushing the boundaries of…", 'edit_history_tweet_ids': ['1868129652788588858'], 'id': '1868129652788588858'}}
+2024-12-15 03:03:12,195 - INFO - Updated article history
