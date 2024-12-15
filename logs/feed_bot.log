@@ -172,3 +172,10 @@ Replace [URL] with:
 https://www.r-bloggers.com/2024/12/death-rates-by-cause-of-death-by-ellis2013nz/
 2024-12-15 14:09:50,519 - INFO - Tweet posted successfully: {'data': {'edit_history_tweet_ids': ['1868297418011558223'], 'text': "Here's an engaging tweet about the article:\n\n🚨 Fascinating analysis by @ellis2013nz on why the USA has lower life expectancy despite high health spend. Factors like diet, housing, and social conditions play a bigger role than you might think. Dive into the data here: [URL]…", 'id': '1868297418011558223'}}
 2024-12-15 14:09:50,520 - INFO - Updated article history
+2024-12-15 15:10:38,159 - INFO - Selected feed: https://cprss.s3.amazonaws.com/nodeweekly.com.xml
+2024-12-15 15:10:38,816 - INFO - Found article: require(esm) makes it to LTS
+2024-12-15 15:10:41,690 - INFO - Generated tweet: Here's an engaging tweet about the article:
+
+🚨 Big news for Node.js devs! 🎉 The latest LTS release (v22.12.0) now supports loading native ES modules with `require()`. Still experimental, but it's a game-changer for module compatibility. Dive into the details here: [https://nodeweekly.com/issues/559](https://nodeweekly.com/issues/559) #NodeJS #ESM #LTS
+2024-12-15 15:10:42,066 - INFO - Tweet posted successfully: {'data': {'text': "Here's an engaging tweet about the article:\n\n🚨 Big news for Node.js devs! 🎉 The latest LTS release (v22.12.0) now supports loading native ES modules with `require()`. Still experimental, but it's a game-changer for module compatibility. Dive into the details here:…", 'id': '1868312733650706585', 'edit_history_tweet_ids': ['1868312733650706585']}}
+2024-12-15 15:10:42,067 - INFO - Updated article history
