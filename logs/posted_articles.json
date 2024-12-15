@@ -146,5 +146,9 @@
   {
     "url": "https://www.datadoghq.com/blog/engineering/timeseries-indexing-at-scale/",
     "date": "2024-12-15T21:10:10.912077"
+  },
+  {
+    "url": "https://www.postgresql.org/about/news/devart-introduces-updated-dbforge-tools-for-postgresql-32-to-improve-database-development-and-operations-2981/",
+    "date": "2024-12-15T23:10:40.957400"
   }
 ]
