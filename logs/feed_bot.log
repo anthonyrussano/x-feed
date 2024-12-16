@@ -232,3 +232,10 @@ https://www.r-bloggers.com/2024/12/death-rates-by-cause-of-death-by-ellis2013nz/
 2024-12-16 02:38:22,127 - INFO - Generated tweet: 🤖 Ever wondered how businesses stay ahead of the curve? Check out this article on leveraging machine learning for growth insights! 📊💡 [https://www.teradata.com/insights/ai-and-machine-learning/machine-learning-business-growth](https://www.teradata.com/insights/ai-and-machine-learning/machine-learning-business-growth) #MachineLearning #BusinessGrowth #DataAnalytics
 2024-12-16 02:38:22,507 - INFO - Tweet posted successfully: {'data': {'edit_history_tweet_ids': ['1868485792416534887'], 'id': '1868485792416534887', 'text': '🤖 Ever wondered how businesses stay ahead of the curve? Check out this article on leveraging machine learning for growth insights! 📊💡 [https://t.co/gqxO05fwSe](https://t.co/gqxO05fwSe) #MachineLearning #BusinessGrowth #DataAnalytics'}}
 2024-12-16 02:38:22,508 - INFO - Updated article history
+2024-12-16 03:33:10,909 - INFO - Selected feed: https://www.youtube.com/feeds/videos.xml?user=Bloomberg
+2024-12-16 03:33:11,126 - INFO - Found article: India’s Fertility Dilemma: Inside the Rush for Human Eggs
+2024-12-16 03:33:13,984 - INFO - Generated tweet: 🚨 India's fertility industry is booming, but at what cost? A new law meant to protect egg donors is driving the trade underground, risking exploitation. 🧬💔 Dive into the complex world of egg donation in India. [URL]
+
+[URL]: https://www.bloomberg.com/graphics/2024-fertility-egg-trade/?utm_medium=social&utm_source=youtube&utm_campaign=originals&utm_content=article
+2024-12-16 03:33:14,329 - INFO - Tweet posted successfully: {'data': {'text': "🚨 India's fertility industry is booming, but at what cost? A new law meant to protect egg donors is driving the trade underground, risking exploitation. 🧬💔 Dive into the complex world of egg donation in India. https://t.co/7LQ4OsSEKl\n\nhttps://t.co/7LQ4OsSEKl:…", 'id': '1868499599280820398', 'edit_history_tweet_ids': ['1868499599280820398']}}
+2024-12-16 03:33:14,329 - INFO - Updated article history
