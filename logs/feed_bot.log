@@ -382,3 +382,10 @@ Check out the deck here: [https://azuresql.dev/content/sql-server-python](https:
 2024-12-17 12:22:54,746 - INFO - Generated tweet: 🚀 Big news for AI enthusiasts! A groundbreaking technique is revolutionizing Large Language Models by cutting memory costs by up to 75%! Dive into the details here: [https://venturebeat.com/ai/new-llm-optimization-technique-slashes-memory-costs-up-to-75/](https://venturebeat.com/ai/new-llm-optimization-technique-slashes-memory-costs-up-to-75/) #AI #MachineLearning #TechNews
 2024-12-17 12:22:55,079 - INFO - Tweet posted successfully: {'data': {'text': '🚀 Big news for AI enthusiasts! A groundbreaking technique is revolutionizing Large Language Models by cutting memory costs by up to 75%! Dive into the details here: [https://t.co/0By7BLnGtV](https://t.co/0By7BLnGtV) #AI #MachineLearning #TechNews', 'edit_history_tweet_ids': ['1868995285210607985'], 'id': '1868995285210607985'}}
 2024-12-17 12:22:55,080 - INFO - Updated article history
+2024-12-17 13:22:54,044 - INFO - Selected feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ
+2024-12-17 13:22:54,215 - INFO - Found article: Elasticsearch Course for Beginners
+2024-12-17 13:22:55,797 - INFO - Generated tweet: 🚀 Curious about #Elasticsearch? Check out this in-depth tutorial from @3CodeCampers, perfect for beginners! Dive into indexing, search APIs, and build a real-world search engine with the Astronomy Picture of the Day dataset. 📚👾
+
+🔗 Watch the full course here: [URL]
+2024-12-17 13:22:56,092 - INFO - Tweet posted successfully: {'data': {'text': '🚀 Curious about #Elasticsearch? Check out this in-depth tutorial from @3CodeCampers, perfect for beginners! Dive into indexing, search APIs, and build a real-world search engine with the Astronomy Picture of the Day dataset. 📚👾\n\n🔗 Watch the full course here:…', 'edit_history_tweet_ids': ['1869010389188419822'], 'id': '1869010389188419822'}}
+2024-12-17 13:22:56,092 - INFO - Updated article history
