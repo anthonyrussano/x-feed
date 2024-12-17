@@ -414,3 +414,10 @@ Check out the deck here: [https://azuresql.dev/content/sql-server-python](https:
 2024-12-17 20:12:49,293 - INFO - Generated tweet: Curious about how AI is shaking up copyright laws? The @USCopyrightOffice recently hosted sessions diving into AI's impact on creative works. From literature to video games, they've got it all covered. Check out the full recap here: [https://blogs.loc.gov/copyright/2023/07/icymi-the-copyright-office-hears-from-stakeholders-on-important-issues-with-ai-and-copyright/?loclr=eacop] #AICopyright #CreativeIndustries #CopyrightOffice
 2024-12-17 20:12:49,678 - INFO - Tweet posted successfully: {'data': {'text': "Curious about how AI is shaking up copyright laws? The @USCopyrightOffice recently hosted sessions diving into AI's impact on creative works. From literature to video games, they've got it all covered. Check out the full recap here: [https://t.co/xEm1ZngHyf] #AICopyright…", 'edit_history_tweet_ids': ['1869113541992595794'], 'id': '1869113541992595794'}}
 2024-12-17 20:12:49,679 - INFO - Updated article history
+2024-12-17 23:10:43,788 - INFO - Selected feed: https://www.databasejournal.com/feed/
+2024-12-17 23:10:44,014 - INFO - Found article: SQL SORT BY Statement
+2024-12-17 23:10:45,712 - INFO - Generated tweet: 📊 Curious about how to sort your SQL data with precision? Learn the ins and outs of the SQL ORDER BY statement with our latest tutorial! Whether you need to sort by ascending, descending, multiple columns, or even handle NULL values, we've got you covered! 🔍
+
+👉 Read more: [URL] #SQL #DatabaseTips #DataSorting
+2024-12-17 23:10:46,084 - INFO - Tweet posted successfully: {'data': {'text': "📊 Curious about how to sort your SQL data with precision? Learn the ins and outs of the SQL ORDER BY statement with our latest tutorial! Whether you need to sort by ascending, descending, multiple columns, or even handle NULL values, we've got you covered! 🔍\n\n👉 Read more:…", 'edit_history_tweet_ids': ['1869158322026291260'], 'id': '1869158322026291260'}}
+2024-12-17 23:10:46,085 - INFO - Updated article history
