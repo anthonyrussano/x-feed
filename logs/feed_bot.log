@@ -464,3 +464,10 @@ Read more: [https://www.databasejournal.com/features/sql-null-values/](https://w
 2024-12-18 07:11:35,754 - INFO - Generated tweet: 🧬 Exciting news from the world of immunology! A new study just dropped, detailing how researchers are using cutting-edge data to pinpoint key players in CD8+ T cell states. Dive into the science behind our immune system's control center! 🔬 [URL]
 2024-12-18 07:11:36,033 - INFO - Tweet posted successfully: {'data': {'text': "🧬 Exciting news from the world of immunology! A new study just dropped, detailing how researchers are using cutting-edge data to pinpoint key players in CD8+ T cell states. Dive into the science behind our immune system's control center! 🔬 https://t.co/djIba3NIGq", 'edit_history_tweet_ids': ['1869279327621095548'], 'id': '1869279327621095548'}}
 2024-12-18 07:11:36,033 - INFO - Updated article history
+2024-12-18 09:12:31,006 - INFO - Selected feed: https://blog.jetbrains.com/pycharm/feed/
+2024-12-18 09:12:31,194 - INFO - Found article: 7 Reasons You Should Use dbt Core in PyCharm
+2024-12-18 09:12:33,458 - INFO - Generated tweet: Here's an engaging tweet about the article:
+
+"Transform your data workflow with dbt Core in PyCharm! Discover 7 compelling reasons why this combo is a game-changer for data professionals. From modularity to AI assistance, streamline your projects like never before. 🧑‍💻✨ [URL] #DataTransformation #PyCharm #dbtCore" [URL: https://blog.jetbrains.com/pycharm/2024/12/dbt/]
+2024-12-18 09:12:33,771 - INFO - Tweet posted successfully: {'data': {'id': '1869309768885559598', 'edit_history_tweet_ids': ['1869309768885559598'], 'text': 'Here\'s an engaging tweet about the article:\n\n"Transform your data workflow with dbt Core in PyCharm! Discover 7 compelling reasons why this combo is a game-changer for data professionals. From modularity to AI assistance, streamline your projects like never before. 🧑\u200d💻✨ [URL]…'}}
+2024-12-18 09:12:33,772 - INFO - Updated article history
