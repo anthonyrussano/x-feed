@@ -294,5 +294,9 @@
   {
     "url": "https://www.databasejournal.com/features/sql-sort-by-statement/",
     "date": "2024-12-17T23:10:46.084894"
+  },
+  {
+    "url": "https://www.mongodb.com/blog/post/leveraging-big-query-json-for-optimized-mongodb-dataflow-pipelines",
+    "date": "2024-12-18T00:55:24.171412"
   }
 ]

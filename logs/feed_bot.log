@@ -421,3 +421,12 @@ Check out the deck here: [https://azuresql.dev/content/sql-server-python](https:
 👉 Read more: [URL] #SQL #DatabaseTips #DataSorting
 2024-12-17 23:10:46,084 - INFO - Tweet posted successfully: {'data': {'text': "📊 Curious about how to sort your SQL data with precision? Learn the ins and outs of the SQL ORDER BY statement with our latest tutorial! Whether you need to sort by ascending, descending, multiple columns, or even handle NULL values, we've got you covered! 🔍\n\n👉 Read more:…", 'edit_history_tweet_ids': ['1869158322026291260'], 'id': '1869158322026291260'}}
 2024-12-17 23:10:46,085 - INFO - Updated article history
+2024-12-18 00:55:20,729 - INFO - Selected feed: https://www.mongodb.com/blog/rss
+2024-12-18 00:55:21,640 - INFO - Found article: Leveraging BigQuery JSON for Optimized MongoDB Dataflow Pipelines
+2024-12-18 00:55:23,866 - INFO - Generated tweet: Here's an engaging tweet about the article:
+
+🚀 Big news for data engineers! MongoDB Atlas now supports direct JSON integration with BigQuery, making data pipelines smoother than ever. Say goodbye to complex transformations and hello to cost-effective, high-performance analytics. Check out how it works: [URL]
+
+[URL]: https://www.mongodb.com/blog/post/leveraging-big-query-json-for-optimized-mongodb-dataflow-pipelines
+2024-12-18 00:55:24,171 - INFO - Tweet posted successfully: {'data': {'id': '1869184654458360107', 'edit_history_tweet_ids': ['1869184654458360107'], 'text': "Here's an engaging tweet about the article:\n\n🚀 Big news for data engineers! MongoDB Atlas now supports direct JSON integration with BigQuery, making data pipelines smoother than ever. Say goodbye to complex transformations and hello to cost-effective, high-performance analytics.…"}}
+2024-12-18 00:55:24,172 - INFO - Updated article history
