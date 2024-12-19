@@ -591,3 +591,10 @@ Watch now: [https://www.youtube.com/watch?v=-3VW4rz9Weo](https://www.youtube.com
 2024-12-19 18:15:07,730 - INFO - Generated tweet: 🚨 Big news for the Redis community! 🚨 antirez, the creator of Redis, is back! After a break to focus on family and other projects, he's returning to Redis with fresh ideas and a vision to bridge the company and its community. Dive into his journey and plans here: [https://redis.io/blog/welcome-back-to-redis-antirez/](https://redis.io/blog/welcome-back-to-redis-antirez/) #Redis #TechNews #CommunityFirst
 2024-12-19 18:15:08,074 - INFO - Tweet posted successfully: {'data': {'text': "🚨 Big news for the Redis community! 🚨 antirez, the creator of Redis, is back! After a break to focus on family and other projects, he's returning to Redis with fresh ideas and a vision to bridge the company and its community. Dive into his journey and plans here:…", 'edit_history_tweet_ids': ['1869808699197227472'], 'id': '1869808699197227472'}}
 2024-12-19 18:15:08,074 - INFO - Updated article history
+2024-12-19 19:08:55,869 - INFO - Selected feed: https://devblogs.microsoft.com/landingpage/
+2024-12-19 19:08:56,034 - INFO - Found article: Inside STL: The atomic shared_ptr
+2024-12-19 19:08:58,576 - INFO - Generated tweet: 🧵 Ever wondered how C++20's atomic shared_ptr works? 🤔 It's all about a sneaky lock hiding inside the pointer! 🔒 Check out this deep dive into the implementation details, including how glibc++ and MSVC handle locking differently. 📚
+
+👉 Read more here: [https://devblogs.microsoft.com/oldnewthing/20241219-00/?p=110663](https://devblogs.microsoft.com/oldnewthing/20241219-00/?p=110663)
+2024-12-19 19:08:58,900 - INFO - Tweet posted successfully: {'data': {'text': "🧵 Ever wondered how C++20's atomic shared_ptr works? 🤔 It's all about a sneaky lock hiding inside the pointer! 🔒 Check out this deep dive into the implementation details, including how glibc++ and MSVC handle locking differently. 📚\n\n👉 Read more here:…", 'id': '1869822250406330594', 'edit_history_tweet_ids': ['1869822250406330594']}}
+2024-12-19 19:08:58,900 - INFO - Updated article history
