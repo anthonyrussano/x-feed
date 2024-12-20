@@ -630,3 +630,14 @@ The Library of Congress has digitized the records of the AIDS Memorial Quilt, th
 2024-12-20 07:10:32,119 - INFO - Generated tweet: Curious about how government transparency works? Check out the latest on Sunshine Act Meetings for some insider info! 🏛️📖 [https://www.federalregister.gov/documents/2024/12/19/2024-30491/sunshine-act-meetings](https://www.federalregister.gov/documents/2024/12/19/2024-30491/sunshine-act-meetings) #GovernmentTransparency #SunshineAct
 2024-12-20 07:10:32,433 - INFO - Tweet posted successfully: {'data': {'id': '1870003836556857486', 'text': 'Curious about how government transparency works? Check out the latest on Sunshine Act Meetings for some insider info! 🏛️📖 [https://t.co/dT17QgS9u2](https://t.co/dT17QgS9u2) #GovernmentTransparency #SunshineAct', 'edit_history_tweet_ids': ['1870003836556857486']}}
 2024-12-20 07:10:32,434 - INFO - Updated article history
+2024-12-20 08:14:47,419 - INFO - Selected feed: https://www.kali.org/rss.xml
+2024-12-20 08:14:48,329 - INFO - Found article: Kali Linux 2024.4 Release (Python 3.12, Goodbye i386, Raspberry Pi Imager & Kali NetHunter)
+2024-12-20 08:14:52,562 - INFO - Generated tweet: Here's an engaging tweet about the Kali Linux 2024.4 release:
+
+🚨 Exciting news for #KaliLinux fans! The 2024.4 release is here with Python 3.12, the end of i386 images, and a revamped Kali NetHunter. Plus, now you can customize your Raspberry Pi setup right from the Imager! 🐍💻🍓 
+
+🔗 Dive into the details and get your update: [https://www.kali.org/blog/kali-linux-2024-4-release/](https://www.kali.org/blog/kali-linux-2024-4-release/)
+
+#CyberSecurity #RaspberryPi #LinuxUpdate
+2024-12-20 08:14:52,844 - INFO - Tweet posted successfully: {'data': {'id': '1870020028428333218', 'edit_history_tweet_ids': ['1870020028428333218'], 'text': "Here's an engaging tweet about the Kali Linux 2024.4 release:\n\n🚨 Exciting news for #KaliLinux fans! The 2024.4 release is here with Python 3.12, the end of i386 images, and a revamped Kali NetHunter. Plus, now you can customize your Raspberry Pi setup right from the Imager!…"}}
+2024-12-20 08:14:52,845 - INFO - Updated article history
