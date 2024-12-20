@@ -651,3 +651,10 @@ The Library of Congress has digitized the records of the AIDS Memorial Quilt, th
 2024-12-20 10:11:34,563 - INFO - Generated tweet: 🚨 Attention all Industrial Control Systems (ICS) users! CISA has just dropped eight new advisories on December 19, 2024, addressing current security issues and vulnerabilities. Check out the details and stay protected! 📡🔧 [URL](https://www.cisa.gov/news-events/alerts/2024/12/19/cisa-releases-eight-industrial-control-systems-advisories) #Cybersecurity #ICSAdvisory #TechNews
 2024-12-20 10:11:34,922 - INFO - Tweet posted successfully: {'data': {'edit_history_tweet_ids': ['1870049397159145779'], 'text': '🚨 Attention all Industrial Control Systems (ICS) users! CISA has just dropped eight new advisories on December 19, 2024, addressing current security issues and vulnerabilities. Check out the details and stay protected! 📡🔧 [URL](https://t.co/OIJ6l7rOlN) #Cybersecurity…', 'id': '1870049397159145779'}}
 2024-12-20 10:11:34,923 - INFO - Updated article history
+2024-12-20 11:08:53,421 - INFO - Selected feed: https://www.pulumi.com/blog/rss.xml
+2024-12-20 11:08:54,849 - INFO - Found article: Master Kubernetes Secrets with Pulumi ESC + Secrets Store CSI Driver
+2024-12-20 11:09:01,061 - INFO - Generated tweet: Here's an engaging tweet about the article:
+
+"Unlock the power of Kubernetes secrets management with Pulumi ESC and the Secrets Store CSI Driver! Learn how to avoid using native Kubernetes secrets for enhanced security. Dive into the step-by-step guide to deploy and use secrets safely in your clusters. 🔐✨ [URL] #Kubernetes #SecretsManagement #Pulumi #CloudNative"
+2024-12-20 11:09:01,363 - INFO - Tweet posted successfully: {'data': {'text': 'Here\'s an engaging tweet about the article:\n\n"Unlock the power of Kubernetes secrets management with Pulumi ESC and the Secrets Store CSI Driver! Learn how to avoid using native Kubernetes secrets for enhanced security. Dive into the step-by-step guide to deploy and use secrets…', 'edit_history_tweet_ids': ['1870063852714340545'], 'id': '1870063852714340545'}}
+2024-12-20 11:09:01,364 - INFO - Updated article history

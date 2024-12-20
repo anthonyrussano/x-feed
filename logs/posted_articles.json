@@ -454,5 +454,9 @@
   {
     "url": "https://www.cisa.gov/news-events/alerts/2024/12/19/cisa-releases-eight-industrial-control-systems-advisories",
     "date": "2024-12-20T10:11:34.922457"
+  },
+  {
+    "url": "https://www.pulumi.com/blog/master-kubernetes-secrets-with-pulumi-esc-secrets-store-csi-driver/",
+    "date": "2024-12-20T11:09:01.363678"
   }
 ]
