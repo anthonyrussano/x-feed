@@ -641,3 +641,8 @@ The Library of Congress has digitized the records of the AIDS Memorial Quilt, th
 #CyberSecurity #RaspberryPi #LinuxUpdate
 2024-12-20 08:14:52,844 - INFO - Tweet posted successfully: {'data': {'id': '1870020028428333218', 'edit_history_tweet_ids': ['1870020028428333218'], 'text': "Here's an engaging tweet about the Kali Linux 2024.4 release:\n\n🚨 Exciting news for #KaliLinux fans! The 2024.4 release is here with Python 3.12, the end of i386 images, and a revamped Kali NetHunter. Plus, now you can customize your Raspberry Pi setup right from the Imager!…"}}
 2024-12-20 08:14:52,845 - INFO - Updated article history
+2024-12-20 09:11:32,074 - INFO - Selected feed: https://www.lfedge.org/feed/
+2024-12-20 09:11:32,749 - INFO - Found article: Looking Forward to EdgeX 4.0:  Industrial Readiness and Open-Source Licensing Integrity
+2024-12-20 09:11:35,302 - INFO - Generated tweet: 🚀 Exciting news from #EdgeXFoundry! The upcoming EdgeX 4.0 "Odesa" release in Feb 2025 promises industrial readiness and reaffirms open-source integrity. Check out the new features and licensing updates here: [URL](https://lfedge.org/looking-forward-to-edgex-4-0-industrial-readiness-and-open-source-licensing-integrity/) #IoT #OpenSource
+2024-12-20 09:11:35,638 - INFO - Tweet posted successfully: {'data': {'edit_history_tweet_ids': ['1870034300688629967'], 'id': '1870034300688629967', 'text': '🚀 Exciting news from #EdgeXFoundry! The upcoming EdgeX 4.0 "Odesa" release in Feb 2025 promises industrial readiness and reaffirms open-source integrity. Check out the new features and licensing updates here: [URL](https://t.co/7aCvJth2SO) #IoT #OpenSource'}}
+2024-12-20 09:11:35,638 - INFO - Updated article history
