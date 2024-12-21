@@ -724,3 +724,12 @@ Check out the details & secure your clusters now! [URL](https://www.redhat.com/e
 2024-12-21 07:09:16,867 - INFO - Generated tweet: Discover the power of **kSnip**! 📸 An open-source gem for quick & efficient screen captures. Learn how to install & use it in this detailed walkthrough. #opensource #screenshottool #kSnip [URL](https://www.youtube.com/watch?v=pG99YrzkJ4E)
 2024-12-21 07:09:17,166 - INFO - Tweet posted successfully: {'data': {'text': 'Discover the power of **kSnip**! 📸 An open-source gem for quick &amp; efficient screen captures. Learn how to install &amp; use it in this detailed walkthrough. #opensource #screenshottool #kSnip [URL](https://t.co/VCmXmp2TAn)', 'edit_history_tweet_ids': ['1870365908729839697'], 'id': '1870365908729839697'}}
 2024-12-21 07:09:17,167 - INFO - Updated article history
+2024-12-21 08:12:56,716 - INFO - Selected feed: http://blogs.loc.gov/law/feed/
+2024-12-21 08:12:57,404 - INFO - Found article: Upcoming US Law Webinars – January 2025
+2024-12-21 08:13:00,635 - INFO - Generated tweet: 🚨 Attention all legal eagles! 📚 The Law Library of Congress is hosting some must-attend webinars in January 2025! Dive deep into U.S. federal statutes, discover congressionally mandated reports, and explore the Maine State Law Library's offerings. 📖 
+
+🔗 **Learn more & Register here:** [https://blogs.loc.gov/law/2024/12/upcoming-us-law-webinars-january-2025/](https://blogs.loc.gov/law/2024/12/upcoming-us-law-webinars-january-2025/) 
+
+Don't miss out on these educational gems! 🧑‍⚖️ #LegalWebinars #LawLibraryOfCongress #ProfessionalDevelopment
+2024-12-21 08:13:00,957 - INFO - Tweet posted successfully: {'data': {'id': '1870381946989138161', 'text': "🚨 Attention all legal eagles! 📚 The Law Library of Congress is hosting some must-attend webinars in January 2025! Dive deep into U.S. federal statutes, discover congressionally mandated reports, and explore the Maine State Law Library's offerings. 📖 \n\n🔗 **Learn more &amp;…", 'edit_history_tweet_ids': ['1870381946989138161']}}
+2024-12-21 08:13:00,958 - INFO - Updated article history
