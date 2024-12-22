@@ -885,3 +885,12 @@ This patch brings important fixes and updates for both Community & Prime users. 
 2024-12-22 16:11:33,833 - INFO - Generated tweet: 🚨 Attention developers! 📝 Learn how to register file types for scripting languages to ensure users get a warning when running untrusted scripts. Use the FTA_AlwaysUnsafe flag to enhance security. 🔒 #CyberSecurity #WindowsDevelopment [URL](https://devblogs.microsoft.com/oldnewthing/20241220-00/?p=110669)
 2024-12-22 16:11:34,132 - INFO - Tweet posted successfully: {'data': {'id': '1870864766488522991', 'text': '🚨 Attention developers! 📝 Learn how to register file types for scripting languages to ensure users get a warning when running untrusted scripts. Use the FTA_AlwaysUnsafe flag to enhance security. 🔒 #CyberSecurity #WindowsDevelopment [URL](https://t.co/1F9Io4RirB)', 'edit_history_tweet_ids': ['1870864766488522991']}}
 2024-12-22 16:11:34,133 - INFO - Updated article history
+2024-12-22 18:13:16,602 - INFO - Selected feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCJS9pqu9BzkAMNTmzNMNhvg
+2024-12-22 18:13:16,686 - INFO - Found article: Google Cloud x MLB Hackathon - Building with Gemini Models
+2024-12-22 18:13:18,738 - INFO - Generated tweet: ⚾️ Attention developers! Join the Google Cloud x MLB Hackathon and innovate baseball with AI! Use Gemini Models to enhance fan experiences and win awesome prizes. 🏆
+
+Check out how you can participate here: [https://goo.gle/3P24nJS](https://goo.gle/3P24nJS)
+
+#GoogleMLBhackathon #BuildwithGemini
+2024-12-22 18:13:19,092 - INFO - Tweet posted successfully: {'data': {'id': '1870895405673726464', 'edit_history_tweet_ids': ['1870895405673726464'], 'text': '⚾️ Attention developers! Join the Google Cloud x MLB Hackathon and innovate baseball with AI! Use Gemini Models to enhance fan experiences and win awesome prizes. 🏆\n\nCheck out how you can participate here: [https://t.co/86KF7W7aPa](https://t.co/86KF7W7aPa)\n\n#GoogleMLBhackathon…'}}
+2024-12-22 18:13:19,093 - INFO - Updated article history
