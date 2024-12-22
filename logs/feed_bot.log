@@ -858,3 +858,8 @@ This patch brings important fixes and updates for both Community & Prime users. 
 🔗 Read more: [URL] #Rancher #Kubernetes #DevOps
 2024-12-22 10:10:17,969 - INFO - Tweet posted successfully: {'data': {'id': '1870773850268651572', 'edit_history_tweet_ids': ['1870773850268651572'], 'text': "Here's an engaging tweet about the Rancher Release v2.10.1:\n\n🐂 **Rancher Release v2.10.1 is here!** 🐂 \nThis patch brings important fixes and updates for both Community &amp; Prime users. Dive into the details for smoother cluster provisioning, K3s upgrades, and more. 📝 Don't…"}}
 2024-12-22 10:10:17,970 - INFO - Updated article history
+2024-12-22 11:07:54,313 - INFO - Selected feed: https://feeds.feedburner.com/PythonSoftwareFoundationNews
+2024-12-22 11:07:54,550 - INFO - Found article: PSF Grants: Program & Charter Updates (TLDR)
+2024-12-22 11:07:56,060 - INFO - Generated tweet: 🚨 Big news for the Python community! The PSF has just updated its Grants Program to ensure sustainability and better support for the evolving needs of Python enthusiasts. Dive into the changes and new guiding principles in this 3-part blog series: [URL] #Python #PSF #Grants
+2024-12-22 11:07:56,379 - INFO - Tweet posted successfully: {'data': {'text': '🚨 Big news for the Python community! The PSF has just updated its Grants Program to ensure sustainability and better support for the evolving needs of Python enthusiasts. Dive into the changes and new guiding principles in this 3-part blog series: https://t.co/sZI4l1r2pC #Python…', 'id': '1870788355694211322', 'edit_history_tweet_ids': ['1870788355694211322']}}
+2024-12-22 11:07:56,380 - INFO - Updated article history
