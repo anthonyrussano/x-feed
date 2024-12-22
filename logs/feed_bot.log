@@ -849,3 +849,12 @@ Thanks to all the contributors! #ApacheAirflow #DataEngineering #WorkflowAutomat
 2024-12-22 09:10:13,051 - INFO - Generated tweet: 🚀 Crusoe just landed a whopping $600M in Series D funding, pushing their valuation to $2.8B! 🌟 With big names like Founders Fund and NVIDIA on board, they're set to revolutionize AI infrastructure. Check out the details: [https://insideainews.com/2024/12/18/crusoe-closes-600m-in-series-d-round-at-2-8-billion-valuation-to-power-ai/](https://insideainews.com/2024/12/18/crusoe-closes-600m-in-series-d-round-at-2-8-billion-valuation-to-power-ai/) #AI #TechFunding #Innovation
 2024-12-22 09:10:13,434 - INFO - Tweet posted successfully: {'data': {'text': "🚀 Crusoe just landed a whopping $600M in Series D funding, pushing their valuation to $2.8B! 🌟 With big names like Founders Fund and NVIDIA on board, they're set to revolutionize AI infrastructure. Check out the details: [https://t.co/VhmWTTtsBT](https://t.co/VhmWTTtsBT) #AI…", 'id': '1870758731559960986', 'edit_history_tweet_ids': ['1870758731559960986']}}
 2024-12-22 09:10:13,435 - INFO - Updated article history
+2024-12-22 10:10:11,907 - INFO - Selected feed: http://forums.rancher.com/c/announcements.rss
+2024-12-22 10:10:13,926 - INFO - Found article: Rancher Release v2.10.1
+2024-12-22 10:10:17,686 - INFO - Generated tweet: Here's an engaging tweet about the Rancher Release v2.10.1:
+
+🐂 **Rancher Release v2.10.1 is here!** 🐂 
+This patch brings important fixes and updates for both Community & Prime users. Dive into the details for smoother cluster provisioning, K3s upgrades, and more. 📝 Don't forget to check the install/upgrade notes before updating! 
+🔗 Read more: [URL] #Rancher #Kubernetes #DevOps
+2024-12-22 10:10:17,969 - INFO - Tweet posted successfully: {'data': {'id': '1870773850268651572', 'edit_history_tweet_ids': ['1870773850268651572'], 'text': "Here's an engaging tweet about the Rancher Release v2.10.1:\n\n🐂 **Rancher Release v2.10.1 is here!** 🐂 \nThis patch brings important fixes and updates for both Community &amp; Prime users. Dive into the details for smoother cluster provisioning, K3s upgrades, and more. 📝 Don't…"}}
+2024-12-22 10:10:17,970 - INFO - Updated article history
