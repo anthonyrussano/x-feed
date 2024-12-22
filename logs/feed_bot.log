@@ -812,3 +812,18 @@ Don't miss out on these educational gems! 🧑‍⚖️ #LegalWebinars #LawLibra
 2024-12-22 00:57:25,063 - INFO - Generated tweet: 🚨 Hot off the press! Ely Ratner and Michael Chase just dove deep into the China Military Power Report at CSIS. 🇺🇸🇨🇳 Want the inside scoop? Check out the full discussion here: [https://www.defense.gov/News/Transcripts/Transcript/Article/4012648/asd-ratner-and-dasd-chase-discussion-on-the-cmpr-at-csis/](https://www.defense.gov/News/Transcripts/Transcript/Article/4012648/asd-ratner-and-dasd-chase-discussion-on-the-cmpr-at-csis/) #ChinaMilitary #CSIS #USChinaRelations
 2024-12-22 00:57:25,369 - INFO - Tweet posted successfully: {'data': {'text': '🚨 Hot off the press! Ely Ratner and Michael Chase just dove deep into the China Military Power Report at CSIS. 🇺🇸🇨🇳 Want the inside scoop? Check out the full discussion here: [https://t.co/AYGART8H4q](https://t.co/AYGART8H4q) #ChinaMilitary #CSIS #USChinaRelations', 'edit_history_tweet_ids': ['1870634714073059758'], 'id': '1870634714073059758'}}
 2024-12-22 00:57:25,370 - INFO - Updated article history
+2024-12-22 02:20:41,475 - INFO - Selected feed: https://airflow.apache.org/blog/index.xml
+2024-12-22 02:20:42,262 - INFO - Found article: Blog: Apache Airflow 2.10.0 is here
+2024-12-22 02:20:46,976 - INFO - Generated tweet: 🚨 Big news for the Airflow community! Version 2.10.0 is now live with exciting updates:
+
+- **Telemetry Data Collection**: Airflow now collects usage data to improve future versions. Opt-out options available.
+- **Multiple Executor Configuration**: Use different executors for different tasks, enhancing efficiency.
+- **Dynamic Dataset Scheduling**: New `DatasetAlias` for flexible dataset scheduling.
+- **Dark Mode UI**: Easier on the eyes, now toggleable in the UI.
+- **Task Instance History**: Detailed history for each task instance run.
+
+Get the latest version from PyPI: [https://pypi.org/project/apache-airflow/2.10.0/](https://pypi.org/project/apache-airflow/2.10.0/) or check out the release notes: [https://airflow.apache.org/docs/apache-airflow/2.10.0/release_notes.html](https://airflow.apache.org/docs/apache-airflow/2.10.0/release_notes.html) 
+
+Thanks to all the contributors! #ApacheAirflow #DataEngineering #WorkflowAutomation
+2024-12-22 02:20:47,350 - INFO - Tweet posted successfully: {'data': {'id': '1870655694095208905', 'edit_history_tweet_ids': ['1870655694095208905'], 'text': '🚨 Big news for the Airflow community! Version 2.10.0 is now live with exciting updates:\n\n- **Telemetry Data Collection**: Airflow now collects usage data to improve future versions. Opt-out options available.\n- **Multiple Executor Configuration**: Use different executors for…'}}
+2024-12-22 02:20:47,351 - INFO - Updated article history
