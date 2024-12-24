@@ -1059,3 +1059,14 @@ Did you know? With `SequentialTaskSet`, your load testing can mimic real human b
 2024-12-24 14:10:03,490 - INFO - Generated tweet: 🚀 Curious about scaling your app? Check out this deep dive into **Horizontal vs. Vertical Scaling**! Learn how to boost your application's performance and when to choose each scaling method. 📈 Full video: [URL] #SystemDesign #TechMentorship #ScalingApps
 2024-12-24 14:10:03,821 - INFO - Tweet posted successfully: {'data': {'edit_history_tweet_ids': ['1871558964451680268'], 'id': '1871558964451680268', 'text': "🚀 Curious about scaling your app? Check out this deep dive into **Horizontal vs. Vertical Scaling**! Learn how to boost your application's performance and when to choose each scaling method. 📈 Full video: https://t.co/sbNL5mhYgY #SystemDesign #TechMentorship #ScalingApps"}}
 2024-12-24 14:10:03,822 - INFO - Updated article history
+2024-12-24 15:10:38,193 - INFO - Selected feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCdngmbVKX1Tgre699-XLlUA
+2024-12-24 15:10:38,270 - INFO - Found article: Complete DevOps Roadmap 2025 - Master these 4 Levels!
+2024-12-24 15:10:41,037 - INFO - Generated tweet: 🚨 Attention all aspiring DevOps pros! 📈 Just watched an epic roadmap video for 2025 that breaks down the journey into 4 levels. From pre-requisites to advanced skills, this guide has it all! 🌟
+
+Grab the PDF here: [URL] and get ready to level up your DevOps game! 🚀
+
+#DevOps #TechJourney #2025Roadmap
+
+URL: https://www.youtube.com/watch?v=1J2YOV6LcwY
+2024-12-24 15:10:41,325 - INFO - Tweet posted successfully: {'data': {'id': '1871574221417037860', 'text': '🚨 Attention all aspiring DevOps pros! 📈 Just watched an epic roadmap video for 2025 that breaks down the journey into 4 levels. From pre-requisites to advanced skills, this guide has it all! 🌟\n\nGrab the PDF here: [URL] and get ready to level up your DevOps game! 🚀\n\n#DevOps…', 'edit_history_tweet_ids': ['1871574221417037860']}}
+2024-12-24 15:10:41,326 - INFO - Updated article history
