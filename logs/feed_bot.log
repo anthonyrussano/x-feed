@@ -1070,3 +1070,8 @@ Grab the PDF here: [URL] and get ready to level up your DevOps game! 🚀
 URL: https://www.youtube.com/watch?v=1J2YOV6LcwY
 2024-12-24 15:10:41,325 - INFO - Tweet posted successfully: {'data': {'id': '1871574221417037860', 'text': '🚨 Attention all aspiring DevOps pros! 📈 Just watched an epic roadmap video for 2025 that breaks down the journey into 4 levels. From pre-requisites to advanced skills, this guide has it all! 🌟\n\nGrab the PDF here: [URL] and get ready to level up your DevOps game! 🚀\n\n#DevOps…', 'edit_history_tweet_ids': ['1871574221417037860']}}
 2024-12-24 15:10:41,326 - INFO - Updated article history
+2024-12-24 16:12:39,758 - INFO - Selected feed: https://www.databasejournal.com/feed/
+2024-12-24 16:12:39,956 - INFO - Found article: Working with SQL AND, OR, and NOT Operators
+2024-12-24 16:12:42,132 - INFO - Generated tweet: 🧑‍💻 Just learned about SQL's AND, OR, and NOT operators? Here's a quick guide to mastering them! 📘 Dive into the details and examples to boost your SQL queries. 🔗 Check it out here: [https://www.databasejournal.com/features/sql-and-or-not-operator/](https://www.databasejournal.com/features/sql-and-or-not-operator/) #SQL #Database #Programming
+2024-12-24 16:12:42,438 - INFO - Tweet posted successfully: {'data': {'edit_history_tweet_ids': ['1871589828728438863'], 'text': "🧑\u200d💻 Just learned about SQL's AND, OR, and NOT operators? Here's a quick guide to mastering them! 📘 Dive into the details and examples to boost your SQL queries. 🔗 Check it out here: [https://t.co/jZiKuI2i7Q](https://t.co/jZiKuI2i7Q) #SQL #Database #Programming", 'id': '1871589828728438863'}}
+2024-12-24 16:12:42,439 - INFO - Updated article history
