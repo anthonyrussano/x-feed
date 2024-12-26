@@ -1202,3 +1202,10 @@ URL: https://www.youtube.com/watch?v=1J2YOV6LcwY
 2024-12-26 06:16:00,536 - INFO - Generated tweet: 🚨 Alert for #Solana users! The popular @solana/web3.js npm package was backdoored to steal keys and funds. 🕵️‍♂️ If you're running bots with private access, you might be at risk. Stay safe and check out the full details here: [https://go.theregister.com/feed/www.theregister.com/2024/12/05/solana_javascript_sdk_compromised/](https://go.theregister.com/feed/www.theregister.com/2024/12/05/solana_javascript_sdk_compromised/) #Web3 #Security #CryptoNews
 2024-12-26 06:16:00,862 - INFO - Tweet posted successfully: {'data': {'text': "🚨 Alert for #Solana users! The popular @solana/web3.js npm package was backdoored to steal keys and funds. 🕵️\u200d♂️ If you're running bots with private access, you might be at risk. Stay safe and check out the full details here: [https://t.co/8oya7Awj68](https://t.co/8oya7Awj68) #Web3…", 'edit_history_tweet_ids': ['1872164441774604495'], 'id': '1872164441774604495'}}
 2024-12-26 06:16:00,863 - INFO - Updated article history
+2024-12-26 07:10:34,408 - INFO - Selected feed: https://feeds.feedburner.com/oreilly/radar/atom
+2024-12-26 07:10:34,628 - INFO - Found article: Summarizing Books as Podcasts
+2024-12-26 07:10:36,146 - INFO - Generated tweet: Here's an engaging tweet about the article:
+
+🎧 Ever imagined a world where books come alive through AI-generated podcasts? Check out how we're transforming book summaries into dynamic discussions! 📘🔊 Dive into the future of learning with us: [URL] #AIPodcasts #BookSummaries #TechInnovation
+2024-12-26 07:10:36,460 - INFO - Tweet posted successfully: {'data': {'id': '1872178180682862623', 'text': "Here's an engaging tweet about the article:\n\n🎧 Ever imagined a world where books come alive through AI-generated podcasts? Check out how we're transforming book summaries into dynamic discussions! 📘🔊 Dive into the future of learning with us: https://t.co/uxgmPYellS #AIPodcasts…", 'edit_history_tweet_ids': ['1872178180682862623']}}
+2024-12-26 07:10:36,461 - INFO - Updated article history
