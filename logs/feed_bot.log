@@ -1228,3 +1228,8 @@ URL: https://www.youtube.com/watch?v=1J2YOV6LcwY
 🔗 Full details here: [URL](https://rweekly.org/2024-W52.html)
 2024-12-26 11:09:20,600 - INFO - Tweet posted successfully: {'data': {'edit_history_tweet_ids': ['1872238260573114473'], 'id': '1872238260573114473', 'text': "Here's an engaging tweet about the article:\n\n🚀 Discover the latest in R! From **Rlinguo**, the new mobile app that runs R, to crafting music with R, and even creating roguelike sprites with Shiny, this week's R Weekly has something for everyone. 🎶🎮 Dive into these fascinating…"}}
 2024-12-26 11:09:20,601 - INFO - Updated article history
+2024-12-26 12:20:36,452 - INFO - Selected feed: https://airflow.apache.org/blog/index.xml
+2024-12-26 12:20:36,718 - INFO - Found article: Blog: Apache Airflow 2.9.0: Dataset and UI Improvements
+2024-12-26 12:20:38,981 - INFO - Generated tweet: 🚨 Big news! Apache Airflow 2.9.0 is here with new scheduling options and UI enhancements! 📊 Dive into the details and see what's new: [URL](https://airflow.apache.org/blog/airflow-2.9.0/) #ApacheAirflow #DataEngineering #TechUpdate
+2024-12-26 12:20:39,233 - INFO - Tweet posted successfully: {'data': {'text': "🚨 Big news! Apache Airflow 2.9.0 is here with new scheduling options and UI enhancements! 📊 Dive into the details and see what's new: [URL](https://t.co/QyQUvhSasu) #ApacheAirflow #DataEngineering #TechUpdate", 'edit_history_tweet_ids': ['1872256206389051445'], 'id': '1872256206389051445'}}
+2024-12-26 12:20:39,234 - INFO - Updated article history
