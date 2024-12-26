@@ -1219,3 +1219,12 @@ URL: https://www.youtube.com/watch?v=1J2YOV6LcwY
 2024-12-26 10:11:22,362 - INFO - Generated tweet: 🚨 Attention #DBAs! Need to master the art of #PointInTimeRecovery in #MariaDB? Check out this deep dive into restoring your database to any moment in the past! 🌟 [URL] #DatabaseAdmin #DataRecovery #TechTips
 2024-12-26 10:11:22,610 - INFO - Tweet posted successfully: {'data': {'text': '🚨 Attention #DBAs! Need to master the art of #PointInTimeRecovery in #MariaDB? Check out this deep dive into restoring your database to any moment in the past! 🌟 https://t.co/XQcANMD9XZ #DatabaseAdmin #DataRecovery #TechTips', 'edit_history_tweet_ids': ['1872223672766955771'], 'id': '1872223672766955771'}}
 2024-12-26 10:11:22,611 - INFO - Updated article history
+2024-12-26 11:09:14,425 - INFO - Selected feed: https://rweekly.org/atom.xml
+2024-12-26 11:09:15,190 - INFO - Found article: R Weekly 2024-W52 Rlinguo, R for music, Shiny sprite randomiser
+2024-12-26 11:09:20,333 - INFO - Generated tweet: Here's an engaging tweet about the article:
+
+🚀 Discover the latest in R! From **Rlinguo**, the new mobile app that runs R, to crafting music with R, and even creating roguelike sprites with Shiny, this week's R Weekly has something for everyone. 🎶🎮 Dive into these fascinating projects and more:
+
+🔗 Full details here: [URL](https://rweekly.org/2024-W52.html)
+2024-12-26 11:09:20,600 - INFO - Tweet posted successfully: {'data': {'edit_history_tweet_ids': ['1872238260573114473'], 'id': '1872238260573114473', 'text': "Here's an engaging tweet about the article:\n\n🚀 Discover the latest in R! From **Rlinguo**, the new mobile app that runs R, to crafting music with R, and even creating roguelike sprites with Shiny, this week's R Weekly has something for everyone. 🎶🎮 Dive into these fascinating…"}}
+2024-12-26 11:09:20,601 - INFO - Updated article history
