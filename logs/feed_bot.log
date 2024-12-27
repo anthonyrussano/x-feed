@@ -1387,3 +1387,8 @@ Dive into how Google's Data Cloud is shaping the future of data analytics: [http
 2024-12-27 17:09:17,144 - INFO - Generated tweet: ¡No te pierdas #HashiTalks: América Latina el 16 de enero de 2025! Un evento virtual gratuito lleno de charlas técnicas y demostraciones para la comunidad de HashiCorp en #LatAm. ¡Regístrate ya! [URL]
 2024-12-27 17:09:17,406 - INFO - Tweet posted successfully: {'data': {'edit_history_tweet_ids': ['1872691231945363721'], 'id': '1872691231945363721', 'text': '¡No te pierdas #HashiTalks: América Latina el 16 de enero de 2025! Un evento virtual gratuito lleno de charlas técnicas y demostraciones para la comunidad de HashiCorp en #LatAm. ¡Regístrate ya! https://t.co/bUQZKP1jHP'}}
 2024-12-27 17:09:17,408 - INFO - Updated article history
+2024-12-27 18:14:36,279 - INFO - Selected feed: https://www.youtube.com/feeds/videos.xml?user=ScrippsHealth
+2024-12-27 18:14:36,414 - INFO - Found article: How to Pick a Pediatrician? with Dania Lindenberg, MD | San Diego Health
+2024-12-27 18:14:37,972 - INFO - Generated tweet: 🍼 Choosing the right pediatrician for your little one is key! Check out this insightful chat with Dr. Dania Lindenberg on how to find the perfect fit for your family's health needs. #PediatricCare #NewParents #SanDiegoHealth [URL]
+2024-12-27 18:14:38,279 - INFO - Tweet posted successfully: {'data': {'text': "🍼 Choosing the right pediatrician for your little one is key! Check out this insightful chat with Dr. Dania Lindenberg on how to find the perfect fit for your family's health needs. #PediatricCare #NewParents #SanDiegoHealth https://t.co/oOKSojRC13", 'edit_history_tweet_ids': ['1872707677236736362'], 'id': '1872707677236736362'}}
+2024-12-27 18:14:38,280 - INFO - Updated article history
