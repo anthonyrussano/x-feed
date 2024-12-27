@@ -1310,3 +1310,12 @@ URL: https://www.youtube.com/watch?v=1J2YOV6LcwY
 2024-12-27 05:11:01,635 - INFO - Generated tweet: 🇺🇸 Attention all future leaders! 📢 Defense Secretary Lloyd J. Austin III shared invaluable lessons on American military leadership with West Point's Corps of Cadets. 🎓 Dive into his inspiring words and insights on what it means to lead in today's world. 🔗 Read more here: [https://www.defense.gov/News/Speeches/Speech/Article/3985381/lessons-in-american-military-leadership-remarks-by-secretary-of-defense-lloyd-j/](https://www.defense.gov/News/Speeches/Speech/Article/3985381/lessons-in-american-military-leadership-remarks-by-secretary-of-defense-lloyd-j/) #Leadership #Military #WestPoint
 2024-12-27 05:11:01,954 - INFO - Tweet posted successfully: {'data': {'id': '1872510476560609725', 'edit_history_tweet_ids': ['1872510476560609725'], 'text': "🇺🇸 Attention all future leaders! 📢 Defense Secretary Lloyd J. Austin III shared invaluable lessons on American military leadership with West Point's Corps of Cadets. 🎓 Dive into his inspiring words and insights on what it means to lead in today's world. 🔗 Read more here:…"}}
 2024-12-27 05:11:01,956 - INFO - Updated article history
+2024-12-27 06:15:30,685 - INFO - Selected feed: https://ubuntu.com/blog/feed
+2024-12-27 06:15:31,912 - INFO - Found article: What to know when procuring Linux laptops
+2024-12-27 06:15:34,513 - INFO - Generated tweet: Here's an engaging tweet for the article:
+
+🖥️ Choosing the right Linux laptop for your team? Our latest blog post breaks down everything you need to know about procurement, from certification to long-term support. Make sure you're well-equipped for success! 📝👩‍💼 #LinuxLaptops #TechProcurement #Ubuntu
+
+🔗 Read more: https://ubuntu.com//blog/what-to-know-when-procuring-linux-laptops
+2024-12-27 06:15:34,792 - INFO - Tweet posted successfully: {'data': {'edit_history_tweet_ids': ['1872526720424989065'], 'text': "Here's an engaging tweet for the article:\n\n🖥️ Choosing the right Linux laptop for your team? Our latest blog post breaks down everything you need to know about procurement, from certification to long-term support. Make sure you're well-equipped for success! 📝👩\u200d💼 #LinuxLaptops…", 'id': '1872526720424989065'}}
+2024-12-27 06:15:34,793 - INFO - Updated article history
