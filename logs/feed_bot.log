@@ -1331,3 +1331,23 @@ URL: https://www.youtube.com/watch?v=1J2YOV6LcwY
 [URL]: https://grafana.com/blog/2024/12/26/how-to-monitor-your-local-weather-with-grafana/ #WeatherDashboard #DataVisualization #TechTips
 2024-12-27 08:14:20,232 - INFO - Tweet posted successfully: {'data': {'text': '🌦️ Want to keep an eye on your local weather like a pro? Check out how Grafana can transform raw weather data into a stunning dashboard! 📊✨\n\n[URL]: https://t.co/W32VDN0t5V #WeatherDashboard #DataVisualization #TechTips', 'edit_history_tweet_ids': ['1872556606652924091'], 'id': '1872556606652924091'}}
 2024-12-27 08:14:20,234 - INFO - Updated article history
+2024-12-27 09:11:07,930 - INFO - Selected feed: https://www.cisa.gov/uscert/ncas/alerts.xml
+2024-12-27 09:11:08,501 - INFO - Found article: Enhancing Cyber Resilience: Insights from CISA Red Team Assessment of a US Critical Infrastructure Sector Organization
+2024-12-27 09:11:14,298 - INFO - Generated tweet: Here's an engaging tweet about the article:
+
+🚨 New CISA Advisory Alert 🚨
+
+Ever wondered how secure your critical infrastructure is? 🛡️ CISA's red team found some eye-opening vulnerabilities in a recent assessment of a US critical infrastructure organization. 
+
+Key findings:
+- **Initial Access:** Exploited a web shell left from a previous security check.
+- **Lateral Movement:** Moved freely due to insufficient technical controls.
+- **Recommendations:** Implement better network segmentation and continuous training for staff.
+
+Read the full advisory to fortify your defenses! 📜 [URL]
+
+#CyberSecurity #CriticalInfrastructure #RedTeam #CISA
+
+[URL]: https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-326a
+2024-12-27 09:11:14,586 - INFO - Tweet posted successfully: {'data': {'text': "Here's an engaging tweet about the article:\n\n🚨 New CISA Advisory Alert 🚨\n\nEver wondered how secure your critical infrastructure is? 🛡️ CISA's red team found some eye-opening vulnerabilities in a recent assessment of a US critical infrastructure organization. \n\nKey findings:\n-…", 'id': '1872570927558672882', 'edit_history_tweet_ids': ['1872570927558672882']}}
+2024-12-27 09:11:14,588 - INFO - Updated article history
