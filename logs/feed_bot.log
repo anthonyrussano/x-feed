@@ -1425,3 +1425,8 @@ Don't miss out, these deals are only until Dec 31! [URL]
 [URL]: https://www.brentozar.com/archive/2024/12/announcing-the-holiday-sale/
 2024-12-28 00:51:43,739 - INFO - Tweet posted successfully: {'data': {'edit_history_tweet_ids': ['1872807608618500589'], 'id': '1872807608618500589', 'text': '🎉 Missed our Black Friday sale? No worries! Check out our Holiday Sale for SQL Server training! \n\n- **Fundamentals AND Mastering**: $1,095/year (was $2,516!) [URL]\n- **Fundamentals AND Mastering AND Apps**: $1,195/year (was $3,706!) [URL]\n- **LIFETIME ACCESS** to Fundamentals…'}}
 2024-12-28 00:51:43,740 - INFO - Updated article history
+2024-12-28 02:09:39,314 - INFO - Selected feed: https://mariadb.com/feed/
+2024-12-28 02:09:39,622 - INFO - Found article: Transforming Databases for the AI Era: The Vector Revolution
+2024-12-28 02:09:41,193 - INFO - Generated tweet: 🚀 Big news in the database world! I just joined MariaDB to help lead a charge into the AI era with vector databases. Excited to share how we're transforming data handling for smarter, faster AI applications. Check out the details here: [URL] #AI #Databases #MariaDB
+2024-12-28 02:09:41,543 - INFO - Tweet posted successfully: {'data': {'text': "🚀 Big news in the database world! I just joined MariaDB to help lead a charge into the AI era with vector databases. Excited to share how we're transforming data handling for smarter, faster AI applications. Check out the details here: https://t.co/OII2bIH9AY #AI #Databases…", 'id': '1872827228465066356', 'edit_history_tweet_ids': ['1872827228465066356']}}
+2024-12-28 02:09:41,544 - INFO - Updated article history
