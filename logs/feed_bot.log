@@ -1412,3 +1412,16 @@ Dive into how Google's Data Cloud is shaping the future of data analytics: [http
 2024-12-27 23:10:15,719 - INFO - Generated tweet: 🚨 **Heads Up, North Carolina!** 🚨 The Helene Disaster Recovery Centers will be taking a holiday break, closing at 6 p.m. on Dec. 23 and reopening on Dec. 27. Remember, you don't have to visit a center to get help - apply online at [https://www.disasterassistance.org](https://www.disasterassistance.org) or check the nearest center at [http://www.fema.gov/drc](http://www.fema.gov/drc). Don't forget, the application deadline is Jan. 7, 2025! 📅 [Full article here: https://www.fema.gov/press-release/20241223/helene-disaster-recovery-centers-temporarily-close-dec-23-holiday-0](https://www.fema.gov/press-release/20241223/helene-disaster-recovery-centers-temporarily-close-dec-23-holiday-0) #FEMA #DisasterRecovery #NorthCarolina
 2024-12-27 23:10:16,018 - INFO - Tweet posted successfully: {'data': {'id': '1872782074765103108', 'edit_history_tweet_ids': ['1872782074765103108'], 'text': "🚨 **Heads Up, North Carolina!** 🚨 The Helene Disaster Recovery Centers will be taking a holiday break, closing at 6 p.m. on Dec. 23 and reopening on Dec. 27. Remember, you don't have to visit a center to get help - apply online at…"}}
 2024-12-27 23:10:16,020 - INFO - Updated article history
+2024-12-28 00:51:39,685 - INFO - Selected feed: https://www.brentozar.com/blog/feed/
+2024-12-28 00:51:39,811 - INFO - Found article: Announcing the Holiday Sale
+2024-12-28 00:51:43,465 - INFO - Generated tweet: 🎉 Missed our Black Friday sale? No worries! Check out our Holiday Sale for SQL Server training! 
+
+- **Fundamentals AND Mastering**: $1,095/year (was $2,516!) [URL]
+- **Fundamentals AND Mastering AND Apps**: $1,195/year (was $3,706!) [URL]
+- **LIFETIME ACCESS** to Fundamentals and Mastering: $1,995 once, never ask for permission again! [URL]
+
+Don't miss out, these deals are only until Dec 31! [URL]
+
+[URL]: https://www.brentozar.com/archive/2024/12/announcing-the-holiday-sale/
+2024-12-28 00:51:43,739 - INFO - Tweet posted successfully: {'data': {'edit_history_tweet_ids': ['1872807608618500589'], 'id': '1872807608618500589', 'text': '🎉 Missed our Black Friday sale? No worries! Check out our Holiday Sale for SQL Server training! \n\n- **Fundamentals AND Mastering**: $1,095/year (was $2,516!) [URL]\n- **Fundamentals AND Mastering AND Apps**: $1,195/year (was $3,706!) [URL]\n- **LIFETIME ACCESS** to Fundamentals…'}}
+2024-12-28 00:51:43,740 - INFO - Updated article history
