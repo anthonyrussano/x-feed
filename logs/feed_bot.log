@@ -1572,3 +1572,10 @@ Explore the full details and get ready to migrate: [URL](https://www.postgresql.
 2024-12-29 15:09:44,046 - INFO - Generated tweet: 🍲 Ever wonder how food safety laws came to be? Dive into the fascinating story of Harvey Wiley and the Pure Food Movement at the turn of the 20th century. From poison squads to shocking exposés, learn how our food was once a wild west of adulteration! 🍯🍳 [URL](https://blogs.loc.gov/inside_adams/2024/12/harvey-wiley-and-the-pure-food-movement/) #FoodHistory #PureFoodMovement #HarveyWiley
 2024-12-29 15:09:44,413 - INFO - Tweet posted successfully: {'data': {'text': '🍲 Ever wonder how food safety laws came to be? Dive into the fascinating story of Harvey Wiley and the Pure Food Movement at the turn of the 20th century. From poison squads to shocking exposés, learn how our food was once a wild west of adulteration! 🍯🍳…', 'id': '1873385921925861541', 'edit_history_tweet_ids': ['1873385921925861541']}}
 2024-12-29 15:09:44,414 - INFO - Updated article history
+2024-12-29 16:11:41,561 - INFO - Selected feed: https://www.cncf.io/blog/feed/
+2024-12-29 16:11:41,846 - INFO - Found article: Running a production-ready Raspbery Pi Kubernetes cluster at home
+2024-12-29 16:11:44,536 - INFO - Generated tweet: Here's an engaging tweet about the article:
+
+🚀 Turn your old Raspberry Pis into a powerhouse! Check out how to set up a production-ready Kubernetes cluster at home with K3s. Dust off those Pis and learn Kubernetes the fun way! 🍓💻 [Full article here: https://www.cncf.io/blog/2024/12/27/running-a-production-ready-raspbery-pi-kubernetes-cluster-at-home/] #Kubernetes #RaspberryPi #K3s #DIYTech
+2024-12-29 16:11:44,853 - INFO - Tweet posted successfully: {'data': {'id': '1873401526565114333', 'edit_history_tweet_ids': ['1873401526565114333'], 'text': "Here's an engaging tweet about the article:\n\n🚀 Turn your old Raspberry Pis into a powerhouse! Check out how to set up a production-ready Kubernetes cluster at home with K3s. Dust off those Pis and learn Kubernetes the fun way! 🍓💻 [Full article here: https://t.co/Lx4qfT1P1i]…"}}
+2024-12-29 16:11:44,855 - INFO - Updated article history
