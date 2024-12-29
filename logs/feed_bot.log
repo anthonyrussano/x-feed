@@ -1490,3 +1490,10 @@ Don't miss out, these deals are only until Dec 31! [URL]
 2024-12-29 00:57:49,824 - INFO - Generated tweet: 🧬✨ Dive into a century of scientific wonders! Scripps Research marked its 100th anniversary with an unforgettable Discovery Day at the Fleet Science Center. From hands-on experiments to cutting-edge discussions, this event was a celebration of science's past, present, and future. 🌍🔬 Don't miss the highlights: [URL] #Scripps100 #ScienceForAll
 2024-12-29 00:57:50,129 - INFO - Tweet posted successfully: {'data': {'text': "🧬✨ Dive into a century of scientific wonders! Scripps Research marked its 100th anniversary with an unforgettable Discovery Day at the Fleet Science Center. From hands-on experiments to cutting-edge discussions, this event was a celebration of science's past, present, and…", 'id': '1873171533163561465', 'edit_history_tweet_ids': ['1873171533163561465']}}
 2024-12-29 00:57:50,131 - INFO - Updated article history
+2024-12-29 02:22:13,252 - INFO - Selected feed: https://www.youtube.com/feeds/videos.xml?user=UbuntuOnAir
+2024-12-29 02:22:13,439 - INFO - Found article: ODH-037: Adding an interactive command line to your docs
+2024-12-29 02:22:15,565 - INFO - Generated tweet: 🎥 Ever wondered how to make docs more interactive? Check out our chat with @DavidEkete on adding an interactive command line to your documentation! 🌟
+
+Watch the full Open Documentation Hour session here: [https://www.youtube.com/watch?v=_7pKdieSt74](https://www.youtube.com/watch?v=_7pKdieSt74) #Documentation #TechWriting #InteractiveLearning
+2024-12-29 02:22:15,815 - INFO - Tweet posted successfully: {'data': {'text': '🎥 Ever wondered how to make docs more interactive? Check out our chat with @DavidEkete on adding an interactive command line to your documentation! 🌟\n\nWatch the full Open Documentation Hour session here: [https://t.co/ZLgF52KcCS) #Documentation #TechWriting #InteractiveLearning', 'edit_history_tweet_ids': ['1873192780186734801'], 'id': '1873192780186734801'}}
+2024-12-29 02:22:15,817 - INFO - Updated article history
