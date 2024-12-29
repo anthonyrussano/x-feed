@@ -1554,3 +1554,16 @@ Watch the full Open Documentation Hour session here: [https://www.youtube.com/wa
 2024-12-29 13:14:01,082 - INFO - Generated tweet: 🎥🌟 Ever wondered how AI is revolutionizing the film industry? Check out why we should be celebrating AI innovations that drive real business value at the Oscars! 📽️💡 #AI #Oscars #Innovation [https://www.teradata.com/insights/ai-and-machine-learning/recognizing-the-oscars-for-ai]
 2024-12-29 13:14:01,414 - INFO - Tweet posted successfully: {'data': {'text': '🎥🌟 Ever wondered how AI is revolutionizing the film industry? Check out why we should be celebrating AI innovations that drive real business value at the Oscars! 📽️💡 #AI #Oscars #Innovation [https://t.co/HDZMOfcssB]', 'edit_history_tweet_ids': ['1873356800759943632'], 'id': '1873356800759943632'}}
 2024-12-29 13:14:01,416 - INFO - Updated article history
+2024-12-29 14:08:30,201 - INFO - Selected feed: https://www.postgresql.org/news.rss
+2024-12-29 14:08:30,872 - INFO - Found article: [ANNOUNCE] IvorySQL 4.0 Released - Enhanced Oracle Compatibility with PostgreSQL 17.0 Foundation
+2024-12-29 14:08:33,843 - INFO - Generated tweet: 🚨 Exciting News for Oracle Users! 🚨
+
+IvorySQL 4.0 is here, bringing enhanced Oracle compatibility to PostgreSQL 17.0! 🚀 Now with:
+
+- **Invisible Columns** for cleaner data management
+- **PL/SQL Package Management** for seamless operations
+- **Installation improvements** on Ubuntu
+
+Explore the full details and get ready to migrate: [URL](https://www.postgresql.org/about/news/announce-ivorysql-40-released-enhanced-oracle-compatibility-with-postgresql-170-foundation-2987/) #IvorySQL #PostgreSQL #OracleMigration
+2024-12-29 14:08:34,170 - INFO - Tweet posted successfully: {'data': {'id': '1873370527907147811', 'edit_history_tweet_ids': ['1873370527907147811'], 'text': '🚨 Exciting News for Oracle Users! 🚨\n\nIvorySQL 4.0 is here, bringing enhanced Oracle compatibility to PostgreSQL 17.0! 🚀 Now with:\n\n- **Invisible Columns** for cleaner data management\n- **PL/SQL Package Management** for seamless operations\n- **Installation improvements** on…'}}
+2024-12-29 14:08:34,171 - INFO - Updated article history
