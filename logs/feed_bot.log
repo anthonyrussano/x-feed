@@ -1699,3 +1699,14 @@ Read more: [https://www.fema.gov/press-release/20241230/fema-helps-rescue-part-i
 🚨 Exciting news from @librarycongress! Dive into the latest digital treasures added to their collections this December 2024. From historical media publications to the poignant AIDS Memorial Quilt records, there's something for every history buff. 📜✨ Don't miss out on exploring these rich resources! [URL: https://blogs.loc.gov/thesignal/2024/12/new-loc-dec-2024/] #LibraryOfCongress #DigitalCollections #HistoryLovers
 2024-12-30 22:10:19,325 - INFO - Tweet posted successfully: {'data': {'edit_history_tweet_ids': ['1873854152574488894'], 'text': "Here's an engaging tweet about the article:\n\n🚨 Exciting news from @librarycongress! Dive into the latest digital treasures added to their collections this December 2024. From historical media publications to the poignant AIDS Memorial Quilt records, there's something for every…", 'id': '1873854152574488894'}}
 2024-12-30 22:10:19,327 - INFO - Updated article history
+2024-12-30 23:10:09,936 - INFO - Selected feed: https://feeds.feedburner.com/PythonSoftwareFoundationNews
+2024-12-30 23:10:10,129 - INFO - Found article: PSF Grants: Program & Charter Updates (Part 3)
+2024-12-30 23:10:13,038 - INFO - Generated tweet: 🚨 Big news for Python enthusiasts! The PSF is updating its Grants Program Charter to ensure sustainability. Here’s what’s changing:
+
+- **Pausing certain grant categories** 
+- **Implementing grant caps**
+- **Limiting funding days**
+
+Read all about it: [https://pyfound.blogspot.com/2024/12/12psf-grants-program-charter-updates-part-3.html](https://pyfound.blogspot.com/2024/12/12psf-grants-program-charter-updates-part-3.html) #PythonCommunity #PSFGrants #SustainableFunding
+2024-12-30 23:10:13,354 - INFO - Tweet posted successfully: {'data': {'text': '🚨 Big news for Python enthusiasts! The PSF is updating its Grants Program Charter to ensure sustainability. Here’s what’s changing:\n\n- **Pausing certain grant categories** \n- **Implementing grant caps**\n- **Limiting funding days**\n\nRead all about it:…', 'id': '1873869227200749681', 'edit_history_tweet_ids': ['1873869227200749681']}}
+2024-12-30 23:10:13,355 - INFO - Updated article history
