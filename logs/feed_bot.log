@@ -1807,3 +1807,10 @@ Don't miss out on the insights and how you can secure your systems. 🔒
 2024-12-31 20:11:13,690 - INFO - Generated tweet: 🧠 Ever wondered how our brain's memory could inspire better AI? Check out how sequential memory boosts learning in AI, making them smarter and faster! 📈 Dive into the details here: [https://www.nature.com/articles/s42256-024-00950-3](https://www.nature.com/articles/s42256-024-00950-3) #MachineLearning #MemoryMatters
 2024-12-31 20:11:13,976 - INFO - Tweet posted successfully: {'data': {'text': "🧠 Ever wondered how our brain's memory could inspire better AI? Check out how sequential memory boosts learning in AI, making them smarter and faster! 📈 Dive into the details here: [https://t.co/3SnY5kvgei](https://t.co/3SnY5kvgei) #MachineLearning #MemoryMatters", 'edit_history_tweet_ids': ['1874186570716119477'], 'id': '1874186570716119477'}}
 2024-12-31 20:11:13,978 - INFO - Updated article history
+2024-12-31 21:09:43,959 - INFO - Selected feed: https://www.technologyreview.com/topic/artificial-intelligence/feed/
+2024-12-31 21:09:44,102 - INFO - Found article: The biggest AI flops of 2024
+2024-12-31 21:09:46,936 - INFO - Generated tweet: Here's an engaging tweet about the article:
+
+AI had its share of flops in 2024! From AI slop flooding the internet to chatbots going rogue, here's a look at some of the biggest AI mishaps this year. 🤖💥 Check out the full rundown: [URL] #AI #TechFlops #2024Review
+2024-12-31 21:09:47,231 - INFO - Tweet posted successfully: {'data': {'id': '1874201306421764456', 'text': "Here's an engaging tweet about the article:\n\nAI had its share of flops in 2024! From AI slop flooding the internet to chatbots going rogue, here's a look at some of the biggest AI mishaps this year. 🤖💥 Check out the full rundown: https://t.co/wuToLevS0x #AI #TechFlops…", 'edit_history_tweet_ids': ['1874201306421764456']}}
+2024-12-31 21:09:47,233 - INFO - Updated article history
