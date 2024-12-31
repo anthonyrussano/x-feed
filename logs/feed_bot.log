@@ -1819,3 +1819,16 @@ AI had its share of flops in 2024! From AI slop flooding the internet to chatbot
 2024-12-31 22:10:08,496 - INFO - Generated tweet: 🚔 FEMA is bolstering community safety in Puerto Rico by repairing and upgrading three municipal police stations in Vega Baja, Cataño, and Gurabo. From new patrol cars to enhanced infrastructure, these improvements ensure better protection and services for residents. Check out the full story here: [URL](https://www.fema.gov/press-release/20241218/fema-strengthens-community-safety-repairing-municipal-police-stations) #PuertoRicoRecovery #CommunitySafety 🛡️
 2024-12-31 22:10:08,919 - INFO - Tweet posted successfully: {'data': {'text': '🚔 FEMA is bolstering community safety in Puerto Rico by repairing and upgrading three municipal police stations in Vega Baja, Cataño, and Gurabo. From new patrol cars to enhanced infrastructure, these improvements ensure better protection and services for residents. Check out…', 'edit_history_tweet_ids': ['1874216496559198564'], 'id': '1874216496559198564'}}
 2024-12-31 22:10:08,920 - INFO - Updated article history
+2024-12-31 23:09:54,963 - INFO - Selected feed: https://www.fema.gov/news/news_region-vi.rss
+2024-12-31 23:09:55,182 - INFO - Found article: Just Two Weeks Left to Apply for FEMA Disaster Assistance
+2024-12-31 23:09:59,496 - INFO - Generated tweet: 🚨 Attention, New Mexicans! 🚨 Only **two weeks left** to apply for FEMA disaster assistance due to the October storms and flooding in Chaves County. Don't miss out on non-repayable grants! 🏠💧
+
+Apply now:
+1. Visit the Roswell Disaster Recovery Center
+2. Online at [disasterassistance.gov/](https://www.disasterassistance.gov/)
+3. Download the FEMA App [fema.gov/about/news-multimedia/mobile-products](https://www.fema.gov/about/news-multimedia/mobile-products)
+4. Call the FEMA Helpline at 800-621-3362
+
+Deadline: **January 2, 2025**. Full article: [www.fema.gov/press-release/20241219/just-two-weeks-left-apply-fema-disaster-assistance](https://www.fema.gov/press-release/20241219/just-two-weeks-left-apply-fema-disaster-assistance) #FEMA #DisasterAssistance #NewMexicoRecovery
+2024-12-31 23:09:59,830 - INFO - Tweet posted successfully: {'data': {'text': "🚨 Attention, New Mexicans! 🚨 Only **two weeks left** to apply for FEMA disaster assistance due to the October storms and flooding in Chaves County. Don't miss out on non-repayable grants! 🏠💧\n\nApply now:\n1. Visit the Roswell Disaster Recovery Center\n2. Online at…", 'id': '1874231558355214691', 'edit_history_tweet_ids': ['1874231558355214691']}}
+2024-12-31 23:09:59,832 - INFO - Updated article history
