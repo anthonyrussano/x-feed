@@ -1774,3 +1774,16 @@ Check out our year-end message here: [URL](https://softwareengineeringdaily.com/
 2024-12-31 13:16:44,438 - INFO - Generated tweet: Ever wondered what it's like to hold office hours in Kyoto, Japan? Brent Ozar takes us through a scenic journey amidst historic temples, answering your top-voted SQL questions. Dive into SQL tips, tech trends, and more in this picturesque setting! 🏯💻 [URL]
 2024-12-31 13:16:44,711 - INFO - Tweet posted successfully: {'data': {'text': "Ever wondered what it's like to hold office hours in Kyoto, Japan? Brent Ozar takes us through a scenic journey amidst historic temples, answering your top-voted SQL questions. Dive into SQL tips, tech trends, and more in this picturesque setting! 🏯💻 https://t.co/g6blAaGNX8", 'id': '1874082261470978350', 'edit_history_tweet_ids': ['1874082261470978350']}}
 2024-12-31 13:16:44,712 - INFO - Updated article history
+2024-12-31 14:09:51,566 - INFO - Selected feed: https://www.cisa.gov/uscert/ncas/alerts.xml
+2024-12-31 14:09:52,331 - INFO - Found article: 2023 Top Routinely Exploited Vulnerabilities
+2024-12-31 14:09:57,701 - INFO - Generated tweet: Here's an engaging tweet about the article:
+
+🚨 **2023's Most Exploited Vulnerabilities** 🚨
+
+Discover the top vulnerabilities that cyber attackers loved to exploit last year. From zero-day exploits to critical security flaws, this advisory by @CISAgov, @FBI, @NSAGov, and more, breaks it down. 📊
+
+Don't miss out on the insights and how you can secure your systems. 🔒
+
+[Read More](https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-317a) #CyberSecurity #Vulnerabilities #ZeroDay #InfoSec
+2024-12-31 14:09:58,078 - INFO - Tweet posted successfully: {'data': {'text': "Here's an engaging tweet about the article:\n\n🚨 **2023's Most Exploited Vulnerabilities** 🚨\n\nDiscover the top vulnerabilities that cyber attackers loved to exploit last year. From zero-day exploits to critical security flaws, this advisory by @CISAgov, @FBI, @NSAGov, and more,…", 'id': '1874095655318118857', 'edit_history_tweet_ids': ['1874095655318118857']}}
+2024-12-31 14:09:58,080 - INFO - Updated article history
