@@ -1,0 +1,9 @@
+services:
+  rss-tweet:
+    build: .
+    volumes:
+      - .:/home/appuser
+      - ./logs:/app/logs
+    environment:
+      - TZ=UTC
+    restart: unless-stopped

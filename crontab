@@ -1,0 +1,1 @@
+* * * * * cd /home/appuser && python . >> /app/logs/cron.log 2>&1 

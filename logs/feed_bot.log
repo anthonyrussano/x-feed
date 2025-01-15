@@ -719,6 +719,7 @@ Check out the details & secure your clusters now! [URL](https://www.redhat.com/e
 2024-12-21 06:14:06,139 - INFO - Generated tweet: 🎉 Dive into the creative projects of CCDI's 2024 awardees! From soundscapes to virtual exhibitions, explore how these artists and scholars are reimagining history. Watch the full celebration here: [https://www.loc.gov/item/webcast-11589/?loclr=blogotp](https://www.loc.gov/item/webcast-11589/?loclr=blogotp) #CulturalHeritage #Innovation #HistoryRemixed
 2024-12-21 06:14:06,450 - INFO - Tweet posted successfully: {'data': {'edit_history_tweet_ids': ['1870352022647845366'], 'id': '1870352022647845366', 'text': "🎉 Dive into the creative projects of CCDI's 2024 awardees! From soundscapes to virtual exhibitions, explore how these artists and scholars are reimagining history. Watch the full celebration here: [https://t.co/inZCDu6Zqk) #CulturalHeritage #Innovation #HistoryRemixed…"}}
 2024-12-21 06:14:06,451 - INFO - Updated article history
+
 2024-12-21 07:09:14,964 - INFO - Selected feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCwFpzG5MK5Shg_ncAhrgr9g
 2024-12-21 07:09:15,053 - INFO - Found article: Quick Screen Capture with KSnip, open source and powerful!
 2024-12-21 07:09:16,867 - INFO - Generated tweet: Discover the power of **kSnip**! 📸 An open-source gem for quick & efficient screen captures. Learn how to install & use it in this detailed walkthrough. #opensource #screenshottool #kSnip [URL](https://www.youtube.com/watch?v=pG99YrzkJ4E)
@@ -1837,3 +1838,45 @@ Deadline: **January 2, 2025**. Full article: [www.fema.gov/press-release/2024121
 2025-01-01 00:57:56,991 - INFO - Generated tweet: 🎮🖥️ Dive into the world of high-performance graphics with #VulkanAPI! Learn from Tom Olson & Ralph Potter how Vulkan tackles inefficiencies in older APIs, enhancing control over GPUs and cross-platform compatibility. 🎧Check out their insights in this latest podcast episode! [https://softwareengineeringdaily.com/2024/12/19/the-vulkan-graphics-api-with-tom-olson-and-ralph-potter/](https://softwareengineeringdaily.com/2024/12/19/the-vulkan-graphics-api-with-tom-olson-and-ralph-potter/?utm_source=rss&utm_medium=rss&utm_campaign=the-vulkan-graphics-api-with-tom-olson-and-ralph-potter) #GamingTech #SoftwareEngineering #GPUs
 2025-01-01 00:57:57,306 - INFO - Tweet posted successfully: {'data': {'id': '1874258726867120599', 'edit_history_tweet_ids': ['1874258726867120599'], 'text': '🎮🖥️ Dive into the world of high-performance graphics with #VulkanAPI! Learn from Tom Olson &amp; Ralph Potter how Vulkan tackles inefficiencies in older APIs, enhancing control over GPUs and cross-platform compatibility. 🎧Check out their insights in this latest podcast episode!…'}}
 2025-01-01 00:57:57,307 - INFO - Updated article history
+
+2025-01-14 17:33:46,275 - INFO - Selected feed: https://blog.sqlauthority.com/feed/
+2025-01-14 17:33:47,253 - INFO - Found article: SSMS and Execution Timeout – SQL in Sixty Seconds 209
+2025-01-14 17:34:54,022 - INFO - Generated tweet: 🚀 Need to manage query performance in SSMS? Execution timeouts are your secret weapon! 🕒 Learn why setting them is crucial for testing, production systems, and preventing developer errors. Watch our quick video guide on how to adjust these settings effectively. 💡 [https://blog.sqlauthority.com/2025/01/13/ssms-and-execution-timeout-sql-in-sixty-seconds-209/](https://blog.sqlauthority.com/2025/01/13/ssms-and-execution-timeout-sql-in-sixty-seconds-209/) 
+
+🔍 Have you ever faced a scenario where timeouts saved the day? Share your experiences in the comments! Don’t forget to like and subscribe for more SQL Server insights. #SQLServer #ExecutionTimeouts #DatabaseManagement
+2025-01-14 17:34:54,510 - INFO - Tweet posted successfully: {'data': {'id': '1879341456428851689', 'text': '🚀 Need to manage query performance in SSMS? Execution timeouts are your secret weapon! 🕒 Learn why setting them is crucial for testing, production systems, and preventing developer errors. Watch our quick video guide on how to adjust these settings effectively. 💡…', 'edit_history_tweet_ids': ['1879341456428851689']}}
+2025-01-14 17:34:54,511 - INFO - Updated article history
+2025-01-14 17:38:27,205 - INFO - Selected feed: https://www.fema.gov/news/news_region-i.rss
+2025-01-14 17:38:28,582 - INFO - Found article: FEMA is Hiring to Help with Connecticut’s Severe Storm and Flooding Recovery
+2025-01-14 17:39:21,377 - INFO - Generated tweet: 🌧️ Looking to make a difference in Connecticut? FEMA is hiring! 🚀 Help your community recover from recent severe storms and flooding. Positions are available for those with skills in customer service, logistics, engineering, emergency management, and more. Located in Rocky Hill, these full-time 120-day appointments offer great benefits like health insurance and paid sick leave.
+
+👍 Apply now: [USAJobs.gov](https://www.usajobs.gov/Search/Results?l=Rocky%20Hill,%20Connecticut&a=HSCB&k=local%20hire&p=1)
+
+#FEMA #VolunteerOpportunity #CommunityRecovery #DisasterRelief
+2025-01-14 17:39:21,774 - INFO - Tweet posted successfully: {'data': {'id': '1879342577562058993', 'text': '🌧️ Looking to make a difference in Connecticut? FEMA is hiring! 🚀 Help your community recover from recent severe storms and flooding. Positions are available for those with skills in customer service, logistics, engineering, emergency management, and more. Located in Rocky Hill,…', 'edit_history_tweet_ids': ['1879342577562058993']}}
+2025-01-14 17:39:21,774 - INFO - Updated article history
+2025-01-14 18:51:18,275 - INFO - Selected feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ
+2025-01-14 18:51:19,812 - INFO - Found article: Lisp Programming Language – Full Course for Beginners
+2025-01-14 18:52:33,361 - INFO - Generated tweet: 🚀 Dive into the world of Lisp! 🌟 Our full beginner's course with @the-lisper uncovers why this elegant language has shaped computer science for 60+ years. Discover its unique approach to code as data, powerful macros, and functional paradigms that influence modern languages like Python & Rust. #LispProgramming [https://www.youtube.com/watch?v=cKK-Y1-jAHM](https://www.youtube.com/watch?v=cKK-Y1-jAHM) 🎓
+
+---
+
+🎉 Big thanks to our supporters: Drake Milly, Ulises Moralez, Goddard Tan, David MG, Matthew Springman, Claudio, Oscar R., jedi-or-sith, Nattira Maneerat & Justin Hual! 
+
+Learn coding for free and land a dev job at [https://www.freecodecamp.org](https://www.freecodecamp.org) 🌐
+
+Explore more programming articles at [freecodecamp.org/news](https://freecodecamp.org/news). #CodingJourney #FreeCodeCamp
+2025-01-14 18:52:33,760 - INFO - Tweet posted successfully: {'data': {'edit_history_tweet_ids': ['1879360998869713327'], 'text': "🚀 Dive into the world of Lisp! 🌟 Our full beginner's course with @the-lisper uncovers why this elegant language has shaped computer science for 60+ years. Discover its unique approach to code as data, powerful macros, and functional paradigms that influence modern languages…", 'id': '1879360998869713327'}}
+2025-01-14 18:52:33,761 - INFO - Updated article history
+2025-01-14 22:16:52,881 - INFO - Selected feed: https://aws.amazon.com/about-aws/whats-new/recent/feed/
+2025-01-14 22:16:54,430 - INFO - Found article: EC2 Image Builder simplifies converting Windows ISO files to AMIs
+2025-01-14 22:17:40,379 - INFO - Generated tweet: 🚀 Exciting news for Windows users on AWS! 🌟 EC2 Image Builder now supports direct conversion of Microsoft Windows ISO files to AMIs, making it easier than ever to use your own Windows AMIs. Say goodbye to time-consuming manual steps and hello to streamlined workflows with Windows 11 and beyond! 🔧🖥️
+
+This new feature reduces complexity and operational overhead, allowing you to leverage existing Windows licenses (BYOL) with Amazon WorkSpaces effortlessly. Available in all commercial AWS Regions, you can use this functionality via the AWS CLI, SDKs, or Console.
+
+Ready to dive in? Check out the [documentation](https://docs.aws.amazon.com/imagebuilder/latest/userguide/import-iso-disk.html) for more details! 📚
+
+🔗 Learn more about this update: https://aws.amazon.com/about-aws/whats-new/2025/01/ec2-image-builder-converting-windows-iso-files-amis
+2025-01-14 22:17:40,772 - INFO - Tweet posted successfully: {'data': {'edit_history_tweet_ids': ['1879412618114601236'], 'id': '1879412618114601236', 'text': '🚀 Exciting news for Windows users on AWS! 🌟 EC2 Image Builder now supports direct conversion of Microsoft Windows ISO files to AMIs, making it easier than ever to use your own Windows AMIs. Say goodbye to time-consuming manual steps and hello to streamlined workflows with…'}}
+2025-01-14 22:17:40,773 - INFO - Updated article history
+>>>>>>> 5a17c21 (add local script)
