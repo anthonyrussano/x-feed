@@ -5,7 +5,8 @@ import os
 import json
 import logging
 from datetime import datetime
-from requests_oauthlib import OAuth1Session
+import time
+from discord_webhook import DiscordWebhook, DiscordEmbed
 import vars
 
 # Set up logging
@@ -18,17 +19,10 @@ logging.basicConfig(
     ]
 )
 
-class RssTweetBot:
+class RssDiscordBot:
     def __init__(self):
+        self.webhook_url = vars.DISCORD_WEBHOOK_URL
         self.ollama_api_key = vars.OLLAMA_API_KEY
-        
-        # Initialize OAuth session for Twitter
-        self.oauth = OAuth1Session(
-            vars.OAUTH_CONSUMER_KEY,
-            client_secret=vars.OAUTH_CONSUMER_SECRET,
-            resource_owner_key=vars.OAUTH_ACCESS_TOKEN,
-            resource_owner_secret=vars.OAUTH_ACCESS_TOKEN_SECRET
-        )
         
         # Load posted articles history
         self.history_file = 'logs/posted_articles.json'
@@ -80,14 +74,16 @@ class RssTweetBot:
                     'title': entry.title,
                     'link': entry.link,
                     'description': entry.get('description', ''),
-                    'content': entry.get('content', [{'value': ''}])[0]['value']
+                    'content': entry.get('content', [{'value': ''}])[0]['value'],
+                    'author': entry.get('author', 'Unknown Author'),
+                    'published': entry.get('published', datetime.now().isoformat())
                 }
                 return article
                 
         raise Exception(f"No new articles found in feed: {feed_url}")
 
-    def generate_tweet(self, article):
-        """Generate tweet using Ollama WebUI API."""
+    def generate_summary(self, article):
+        """Generate article summary using Ollama WebUI API."""
         # Truncate content to reduce context length
         max_content_length = 500
         combined_content = (article['description'] + ' ' + article['content']).strip()
@@ -104,18 +100,16 @@ class RssTweetBot:
                     {
                         "role": "system",
                         "content": (
-                            "You are a grandmaster social media manager. Create engaging, professional tweets. "
-                            "Include the article URL at the end. Keep responses concise and precise."
-                            "You must be as human-like as possible with respect to the english language, your grammar, and juxtaposition."
-                            "Write from the point of view of a fellow human being, and don't try to sell the article. Just summarize it and add your quirky two cents."
+                            "You are a friendly content curator. Create engaging, professional summaries. "
+                            "Keep responses concise and precise, around 2-3 sentences. "
+                            "Write in a natural, conversational tone that would be appropriate for a Discord channel."
                         )
                     },
                     {
                         "role": "user",
                         "content": (
                             f"Title: {article['title']}\n"
-                            f"Content: {truncated_content}\n"
-                            f"Article link: {article['link']}")
+                            f"Content: {truncated_content}")
                     }
                 ],
                 "model": "phi4:14b",
@@ -127,57 +121,75 @@ class RssTweetBot:
         if response.status_code != 200:
             raise Exception(f"Ollama API error: {response.text}")
             
-        tweet_text = response.json()['choices'][0]['message']['content'].strip()
-        return tweet_text
+        summary = response.json()['choices'][0]['message']['content'].strip()
+        return summary
 
-
-    def post_tweet(self, tweet_text):
-        """Post tweet to X (Twitter) using OAuth."""
-        payload = {"text": tweet_text}
+    def post_to_discord(self, article, summary):
+        """Post article to Discord using webhooks."""
+        webhook = DiscordWebhook(url=self.webhook_url)
         
-        response = self.oauth.post(
-            "https://api.twitter.com/2/tweets",
-            json=payload
+        # Create embed
+        embed = DiscordEmbed(
+            title=article['title'],
+            description=summary,
+            url=article['link'],
+            color=0x7289DA  # Discord blurple color
         )
         
-        if response.status_code != 201:
-            raise Exception(f"Error posting tweet: {response.text}")
+        # Add author and publication date
+        embed.set_author(name=article['author'])
+        embed.set_footer(text=f"Published: {article['published']}")
+        
+        # Add embed to webhook
+        webhook.add_embed(embed)
+        
+        # Execute webhook
+        response = webhook.execute()
+        
+        if not response:
+            raise Exception("Error posting to Discord")
             
-        return response.json()
+        return response
 
 def main():
     try:
-        bot = RssTweetBot()
+        bot = RssDiscordBot()
+        interval = 3  # Post every hour
         
-        # Get random RSS feed
-        feed_url = bot.get_random_feed_url('rss_feeds.txt')
-        logging.info(f"Selected feed: {feed_url}")
-        
-        # Get latest article
-        article = bot.get_latest_article(feed_url)
-        logging.info(f"Found article: {article['title']}")
-        
-        # Generate tweet
-        tweet = bot.generate_tweet(article)
-        logging.info(f"Generated tweet: {tweet}")
-        
-        # Ensure URL is in the tweet, add it if missing
-        if article['link'] not in tweet:
-            if '[URL]' in tweet:
-                tweet = tweet.replace('[URL]', article['link'])
-            else:
-                tweet = f"{tweet.rstrip()} {article['link']}"
-        
-        # Post tweet
-        response = bot.post_tweet(tweet)
-        logging.info(f"Tweet posted successfully: {response}")
-        
-        # Save to history
-        bot.save_history(article['link'])
-        logging.info("Updated article history")
-        
+        while True:
+            try:
+                # Get random RSS feed
+                feed_url = bot.get_random_feed_url('rss_feeds.txt')
+                logging.info(f"Selected feed: {feed_url}")
+                
+                # Get latest article
+                article = bot.get_latest_article(feed_url)
+                logging.info(f"Found article: {article['title']}")
+                
+                # Generate summary
+                summary = bot.generate_summary(article)
+                logging.info(f"Generated summary: {summary}")
+                
+                # Post to Discord
+                response = bot.post_to_discord(article, summary)
+                logging.info("Posted to Discord successfully")
+                
+                # Save to history
+                bot.save_history(article['link'])
+                logging.info("Updated article history")
+                
+            except Exception as e:
+                logging.error(f"Error in main loop: {str(e)}")
+                # Continue to next iteration instead of crashing
+                
+            # Sleep for the specified interval
+            logging.info(f"Sleeping for {interval} seconds...")
+            time.sleep(interval)
+            
+    except KeyboardInterrupt:
+        logging.info("Bot stopped by user")
     except Exception as e:
-        logging.error(f"Error: {str(e)}")
+        logging.error(f"Fatal error: {str(e)}")
         raise e
 
 if __name__ == "__main__":

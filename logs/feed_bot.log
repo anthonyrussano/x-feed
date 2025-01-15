@@ -1977,3 +1977,530 @@ This issue emphasizes understanding core JavaScript principles while providing i
 2025-01-14 23:16:36,979 - INFO - Generated tweet: 🤓 Ever wondered if your sugar craving is secretly conspiring with your achy joints? 🍬➡️🦵 New study digs into the tango between diabetes and arthritis! Is it a genetic two-step or just bad luck? Get all the juicy deets at [https://www.nature.com/articles/s41387-024-00353-8](https://www.nature.com/articles/s41387-024-00353-8) #GeneticsRocks #AchesAndPies 📊🔬
 2025-01-14 23:16:37,344 - INFO - Tweet posted successfully: {'data': {'id': '1879427451564290440', 'text': '🤓 Ever wondered if your sugar craving is secretly conspiring with your achy joints? 🍬➡️🦵 New study digs into the tango between diabetes and arthritis! Is it a genetic two-step or just bad luck? Get all the juicy deets at [https://t.co/DoPEKaE0u4](https://t.co/DoPEKaE0u4)…', 'edit_history_tweet_ids': ['1879427451564290440']}}
 2025-01-14 23:16:37,345 - INFO - Updated article history
+2025-01-15 00:00:01,359 - INFO - Selected feed: https://www.fema.gov/news/news_region-vi.rss
+2025-01-15 00:00:02,771 - INFO - Found article: New Mexicans Urged to Visit FEMA Community Outreach
+2025-01-15 00:01:09,233 - INFO - Generated tweet: Hey New Mexico! 🌵 FEMA's in town at Home Depot and Roswell Mall, doling out free disaster-proof advice till Dec 21. Hit them up if you want to rebuild like a boss! Need more help? Call the Mitigation Helpline (833-336-2487) or check out disasterassistance.gov for updates on your application. Stay strong, stay safe! 🏡💪
+
+For more info: https://www.fema.gov/press-release/20241219/new-mexicans-urged-visit-fema-community-outreach
+2025-01-15 00:01:09,601 - INFO - Tweet posted successfully: {'data': {'edit_history_tweet_ids': ['1879438659864391917'], 'text': "Hey New Mexico! 🌵 FEMA's in town at Home Depot and Roswell Mall, doling out free disaster-proof advice till Dec 21. Hit them up if you want to rebuild like a boss! Need more help? Call the Mitigation Helpline (833-336-2487) or check out https://t.co/fo3beYhvtt for updates on…", 'id': '1879438659864391917'}}
+2025-01-15 00:01:09,603 - INFO - Updated article history
+2025-01-15 01:00:01,814 - INFO - Selected feed: https://blogs.oracle.com/database/rss
+2025-01-15 01:00:03,318 - INFO - Found article: Introducing Exadata X11M for Exadata Database Service and Autonomous Database
+2025-01-15 01:00:27,166 - INFO - Generated tweet: 🚀 Oracle's dropping Exadata X11M like it's hot! 😎 This beast is all about making your database workloads fly with AMD EPYC processors, faster AI Vector queries, and speedier storage access. It’s like swapping a tortoise for a cheetah in the race to the cloud! 🏁 Check out the full scoop: https://blogs.oracle.com/database/post/introducing-exadata-x11m-for-cloud
+2025-01-15 01:00:27,609 - INFO - Tweet posted successfully: {'data': {'edit_history_tweet_ids': ['1879453583332274579'], 'id': '1879453583332274579', 'text': "🚀 Oracle's dropping Exadata X11M like it's hot! 😎 This beast is all about making your database workloads fly with AMD EPYC processors, faster AI Vector queries, and speedier storage access. It’s like swapping a tortoise for a cheetah in the race to the cloud! 🏁 Check out the…"}}
+2025-01-15 01:00:27,611 - INFO - Updated article history
+2025-01-15 02:00:01,808 - INFO - Selected feed: https://www.youtube.com/feeds/videos.xml?user=ScrippsResearch
+2025-01-15 02:00:03,215 - INFO - Found article: Xin Jin: Building a 'telescope' for the brain
+2025-01-15 02:00:36,851 - INFO - Generated tweet: Xin Jin’s brain-telescope is like upgrading from Galileo's stargazing to mind-surfing! 🧠✨ She's diving into neurons and genes, unmasking mysteries of neurological diseases. Tune into Science Changing Life for a cosmic ride with Scripps’ science squad—led by hosts Lauren Fish and Melissa Suran, PhD. Subscribe now: scripps.edu/news-and-events/podcast. 🎙️💫 [https://www.youtube.com/watch?v=Y3dLBv-taBw](https://www.youtube.com/watch?v=Y3dLBv-taBw)
+2025-01-15 02:00:37,352 - INFO - Tweet posted successfully: {'data': {'id': '1879468723662447036', 'text': "Xin Jin’s brain-telescope is like upgrading from Galileo's stargazing to mind-surfing! 🧠✨ She's diving into neurons and genes, unmasking mysteries of neurological diseases. Tune into Science Changing Life for a cosmic ride with Scripps’ science squad—led by hosts Lauren Fish…", 'edit_history_tweet_ids': ['1879468723662447036']}}
+2025-01-15 02:00:37,354 - INFO - Updated article history
+2025-01-15 03:00:01,554 - INFO - Selected feed: https://www.cisa.gov/uscert/ics/monitors/monitors.xml
+2025-01-15 03:00:03,156 - ERROR - Error: No entries found in feed: https://www.cisa.gov/uscert/ics/monitors/monitors.xml
+2025-01-15 04:00:01,347 - INFO - Selected feed: https://www.cisa.gov/uscert/ncas/bulletins.xml
+2025-01-15 04:00:05,719 - INFO - Found article: Vulnerability Summary for the Week of January 6, 2025
+2025-01-15 04:03:12,503 - INFO - Generated tweet: ### Summary of Known Vulnerabilities
+
+1. **Apache Log4j RCE Vulnerability (CVE-2023-26360)**
+   - **Component Affected:** Apache log4j 2.
+   - **Description:** A remote code execution vulnerability due to deserialization of untrusted data by the `JndiManager` class, potentially leading to arbitrary file reads and writes.
+   - **Affected Versions:** Log4j versions from 1.0 before 1.2.17, 2.0-beta9 before 2.16.0, and 2.1 before 2.17.0.
+   - **Remediation:** Upgrade to version 2.18.0 or later.
+
+2. **Jira Service Management Security Vulnerability (CVE-2024-24621)**
+   - **Component Affected:** Atlassian Jira Service Management.
+   - **Description:** A vulnerability in the Advanced Roadmaps integration that could allow authenticated users to access sensitive information through a crafted URL.
+   - **Affected Versions:** From 5.3 before 5.3.8 and from 5.4 before 5.4.3.
+   - **Remediation:** Upgrade to the latest version.
+
+3. **SAP NetWeaver Vulnerabilities (Multiple CVEs)**
+   - **Components Affected:** SAP NetWeaver Java EE-based components, SAP NetWeaver Process Integration, and Web Application Server.
+   - **Description:** Various vulnerabilities, including XSS, improper access control, and SQL injection, potentially allowing attackers to execute arbitrary code or gain unauthorized access.
+   - **Affected Versions:** Multiple versions as detailed in each CVE description.
+
+4. **Pulse Connect Secure Vulnerability (Multiple CVEs)**
+   - **Component Affected:** Pulse Connect Secure VPN solutions.
+   - **Description:** Several vulnerabilities including SSRF, SQL injection, and improper authorization, potentially allowing unauthorized access or remote code execution.
+   - **Affected Versions:** Various versions as specified in each CVE.
+
+5. **VMware Workspace ONE Access Vulnerabilities (Multiple CVEs)**
+   - **Component Affected:** VMware Workspace ONE Access.
+   - **Description:** Multiple vulnerabilities including improper neutralization of input and insufficient authorization, potentially allowing XSS or access to sensitive information.
+   - **Affected Versions:** Various versions as specified in each CVE.
+
+6. **Apache JMeter Vulnerability (CVE-2024-23803)**
+   - **Component Affected:** Apache JMeter.
+   - **Description:** An authentication bypass vulnerability in the HTTP(S) Test Script Recorder, allowing unauthenticated users to record and replay traffic.
+   - **Affected Versions:** From 5.6 before 5.7.1.
+   - **Remediation:** Upgrade to version 5.7.1 or later.
+
+### Recommendations for Mitigation
+
+- **Upgrade Software:** Ensure all affected software components are updated to the latest versions that address these vulnerabilities.
+- **Review Security Configurations:** Regularly review and update security configurations, especially for high-risk components like VPNs and service management tools.
+- **Implement Monitoring and Logging:** Enhance monitoring and logging capabilities to detect and respond to suspicious activities promptly.
+- **Conduct Vulnerability Assessments:** Perform regular vulnerability assessments and penetration testing to identify and mitigate potential security risks.
+- **Educate Users:** Provide training for users on recognizing phishing attempts and other social engineering attacks that could exploit these vulnerabilities.
+
+By following these recommendations, organizations can significantly reduce the risk of exploitation from these known vulnerabilities.
+2025-01-15 04:03:13,119 - INFO - Tweet posted successfully: {'data': {'edit_history_tweet_ids': ['1879499576035737678'], 'text': '### Summary of Known Vulnerabilities\n\n1. **Apache Log4j RCE Vulnerability (CVE-2023-26360)**\n   - **Component Affected:** Apache log4j 2.\n   - **Description:** A remote code execution vulnerability due to deserialization of untrusted data by the `JndiManager` class, potentially…', 'id': '1879499576035737678'}}
+2025-01-15 04:03:13,121 - INFO - Updated article history
+2025-01-15 05:00:01,331 - INFO - Selected feed: https://www.hashicorp.com/blog/products/terraform/feed.xml
+2025-01-15 05:00:01,650 - INFO - Found article: Fannie Mae’s process for developing policy as code with Terraform Enterprise and Sentinel
+2025-01-15 05:03:18,285 - INFO - Generated tweet: # Fannie Mae's Process for Developing Policy as Code with Terraform Enterprise Sentinel
+
+Fannie Mae, a leading global financial services company in the housing and mortgage sectors, has successfully integrated policy as code into their operations using HashiCorp Terraform Enterprise. This integration focuses on securing infrastructure management through HashiCorp Sentinel—a flexible policy-as-code framework. Below is a detailed overview of Fannie Mae's approach and key takeaways.
+
+## Introduction to Policy as Code
+
+Policy as code enables the automation, validation, and enforcement of compliance rules within an organization’s IT infrastructure. Using Terraform Enterprise with HashiCorp Sentinel allows for defining security policies that developers must adhere to during infrastructure provisioning. This process ensures compliance across various platforms such as AWS, Azure, GCP, Kubernetes, and more.
+
+## Benefits of Policy as Code
+
+- **Unified Security Framework**: A singular system for securing multiple cloud providers.
+- **Consistent Enforcement**: Policies are enforced consistently across all environments.
+- **Automated Compliance Checks**: Real-time checks ensure infrastructure complies with security standards before deployment.
+- **Scalability**: Easily scales to manage increasing complexity in cloud infrastructure.
+
+## Fannie Mae's Policy Development Process
+
+### 1. Define Requirements
+
+Fannie Mae emphasizes the importance of precise requirement gathering, involving all stakeholders to ensure clarity and relevance of policies. This phase ensures that every component incorporated into a policy is necessary for reducing compliance risks without hindering developers' workflows.
+
+### 2. Develop Policies
+
+Policies are created using HashiCorp Sentinel's flexible framework:
+- **Data Sources**: Utilize Terraform plan data, environment metadata, and custom inputs.
+- **Policy Writing**: Employ Sentinel's domain-specific language to define rules that infrastructure must adhere to.
+
+### 3. Test Policies
+
+Testing is crucial for verifying the functionality of policies:
+- **Sentinel Tests**: Define test cases covering various scenarios (pass/fail conditions) using Sentinel mocks.
+- **Utilities**:
+  - *Sentinel Mocks*: Simulate real-world data from Terraform plans.
+  - *Sentinel CLI*: Evaluate policies against mock data to ensure accuracy.
+
+### 4. Review Policies
+
+Fannie Mae conducts two levels of code review:
+- **Peer Review**: Ensures coding standards and functionality are met.
+- **Information Security Review**: Verifies security compliance and risk mitigation.
+
+Testing during the review phase ensures that any changes in shared functions or files do not inadvertently affect multiple policies.
+
+### 5. Release Policies
+
+Policies are merged into a release branch, ensuring they integrate seamlessly with Terraform workflows:
+- **Gradual Enforcement**: Start with advisory enforcement levels before moving to hard mandatory checks.
+- **Developer Feedback**: Monitor developer interactions and adjust policy strictness as necessary.
+
+## Lessons Learned
+
+Fannie Mae's experience highlights several key areas for organizations adopting policy as code:
+
+1. **Fine-tune Requirements**: Engage all stakeholders early to define precise requirements that balance security with development needs.
+2. **Performance Considerations**: Collect performance metrics and use mocks for testing policies, ensuring they execute efficiently without causing delays.
+3. **Code Reuse**: Promote the reuse of functions across policies to maintain consistency and save development time.
+4. **Backward Compatibility**: Implement new policies gradually, starting with advisory levels to prevent disruption in existing infrastructure.
+
+## Next Steps
+
+For organizations looking to implement policy as code:
+- Explore Sentinel through the [Sentinel playground site](https://play.sentinelproject.io/).
+- Review detailed documentation on [Sentinel's official website](https://developer.hashicorp.com/sentinel/docs).
+- Access pre-written policies in the [Terraform Registry](https://registry.terraform.io/browse/policies) and GitHub repositories.
+- Test Sentinel with Terraform workflows by signing up for a free trial of [HCP Terraform](https://www.hashicorp.com/products/terraform).
+
+Fannie Mae's structured approach to policy as code using Terraform Enterprise and Sentinel demonstrates the power of integrating security into infrastructure management, ensuring compliance while supporting agile development practices.
+2025-01-15 05:03:18,913 - INFO - Tweet posted successfully: {'data': {'text': "# Fannie Mae's Process for Developing Policy as Code with Terraform Enterprise Sentinel\n\nFannie Mae, a leading global financial services company in the housing and mortgage sectors, has successfully integrated policy as code into their operations using HashiCorp Terraform…", 'id': '1879514699806749062', 'edit_history_tweet_ids': ['1879514699806749062']}}
+2025-01-15 05:03:18,914 - INFO - Updated article history
+2025-01-15 06:00:02,106 - INFO - Selected feed: https://glennsqlperformance.com/feed/
+2025-01-15 06:00:02,283 - INFO - Found article: SQL Server Diagnostic Information Queries for January 2025
+2025-01-15 06:02:34,587 - INFO - Generated tweet: ### Summary
+
+Glenn Berry has released updated diagnostic queries for SQL Server as of January 2025, catering to versions from 2008 onwards. These are available in a convenient Jupyter notebook format on GitHub, making them accessible and easy to use across different environments.
+
+#### Key Updates:
+- **Jupyter Notebook Format**: The queries are now presented in an interactive Jupyter notebook.
+- **GitHub Availability**: This allows for easy access and community collaboration.
+- **Query Sets**: There are separate query sets available for different SQL Server versions, specifically those from 2008 and later, as well as those prior to 2012.
+
+#### Access Links:
+- [SQL Server Diagnostic Information Queries (Jupyter Notebook)](https://github.com/Microsoft/sql-server-samples/tree/master/samples/features/dmvs)
+- [Older Versions Pre-2012](https://github.com/glennwb/oldsql)
+
+### Usage Instructions
+
+1. **Download the Jupyter Notebooks**:
+   - Access the GitHub repositories linked above to download the relevant notebook files for your SQL Server version.
+
+2. **Run the Queries**:
+   - Open the downloaded notebooks in a Jupyter environment.
+   - Execute each cell sequentially to run diagnostic queries on your SQL Server instance.
+
+3. **Interpret Results**:
+   - Utilize Glenn's YouTube series as a guide to understand and interpret the results effectively.
+
+4. **Provide Feedback**:
+   - Share any suggestions or improvements by engaging with the community via comments or on social platforms like Bluesky.
+
+### Additional Resources
+
+For those looking to deepen their understanding of these diagnostic queries, Glenn has prepared an extensive YouTube video series that walks through each query in detail:
+
+- [SQL Server Diagnostic Queries Series](https://www.youtube.com/watch?v=mErorlpgl5k)
+
+These resources are designed to enhance your SQL Server performance tuning and troubleshooting capabilities.
+
+### Community Engagement
+
+Feel free to reach out with questions or feedback on Glenn's blog, Twitter, or Bluesky. Your engagement helps improve these valuable tools for the entire community. 
+
+---
+
+This document provides a comprehensive overview of the updated SQL Server diagnostic queries by Glenn Berry, ensuring users can effectively leverage them to monitor and optimize their database environments.
+2025-01-15 06:02:35,089 - INFO - Tweet posted successfully: {'data': {'edit_history_tweet_ids': ['1879529615397687643'], 'text': '### Summary\n\nGlenn Berry has released updated diagnostic queries for SQL Server as of January 2025, catering to versions from 2008 onwards. These are available in a convenient Jupyter notebook format on GitHub, making them accessible and easy to use across different environments.…', 'id': '1879529615397687643'}}
+2025-01-15 06:02:35,090 - INFO - Updated article history
+2025-01-15 07:00:01,283 - INFO - Selected feed: https://www.nature.com/natmachintell.rss
+2025-01-15 07:00:01,543 - INFO - Found article: Battery lifetime prediction across diverse ageing conditions with inter-cell deep learning
+2025-01-15 07:00:29,475 - INFO - Generated tweet: Ah, batteries! They're like that one friend who disappears when you need them most. But fear not! Zhang and team have cooked up a clever trick using deep learning to predict battery life amidst all those pesky ageing conditions. It’s the crystal ball for electrons—finally, we can plan our tech tantrums with some certainty! Check out how they're changing the game: https://www.nature.com/articles/s42256-024-00972-x
+2025-01-15 07:00:29,918 - INFO - Tweet posted successfully: {'data': {'edit_history_tweet_ids': ['1879544189962355118'], 'text': "Ah, batteries! They're like that one friend who disappears when you need them most. But fear not! Zhang and team have cooked up a clever trick using deep learning to predict battery life amidst all those pesky ageing conditions. It’s the crystal ball for electrons—finally, we can…", 'id': '1879544189962355118'}}
+2025-01-15 07:00:29,920 - INFO - Updated article history
+2025-01-15 08:00:01,261 - INFO - Selected feed: https://www.cncf.io/blog/feed/
+2025-01-15 08:00:02,830 - INFO - Found article: Kubestronaut in Orbit: Sathish Kumar Venkatesan
+2025-01-15 08:01:31,114 - INFO - Generated tweet: Sathish Kumar Venkatesan, aka our tech wizard from Brampton, is rocking the IT world with 16 years of cloud, DevOps, and system admin experience. Now a Principal Cloud Customer Engineer at RBC, he's all about Kubernetes and giving back through open-source projects like Backstage and Istio. 🌟 He launched DevOpsCloudJunction to connect fellow tech enthusiasts in cloud-native shenanigans. Curious? Check his journey here: https://www.cncf.io/blog/2025/01/14/kubestronaut-in-orbit-sathish-kumar-venkatesan/. Ready to be a Kubestronaut too? Dive into the CNCF Kubestronaut program! 🚀 #TechSavvy #CloudNativeMagic
+2025-01-15 08:01:31,457 - INFO - Tweet posted successfully: {'data': {'id': '1879559547590983991', 'text': "Sathish Kumar Venkatesan, aka our tech wizard from Brampton, is rocking the IT world with 16 years of cloud, DevOps, and system admin experience. Now a Principal Cloud Customer Engineer at RBC, he's all about Kubernetes and giving back through open-source projects like Backstage…", 'edit_history_tweet_ids': ['1879559547590983991']}}
+2025-01-15 08:01:31,459 - INFO - Updated article history
+2025-01-15 09:00:01,732 - INFO - Selected feed: https://deepmind.google/blog/rss.xml
+2025-01-15 09:00:03,737 - INFO - Found article: State-of-the-art video and image generation with Veo 2 and Imagen 3
+2025-01-15 09:00:28,609 - INFO - Generated tweet: Oh look, DeepMind is back at it again with their shiny new toys! Veo 2 and Imagen 3 are the latest in video and image magic. And because they can't leave well enough alone, Whisk just had to join the party too. Who knew AI could be this exciting? 🎥✨ Check out all the cool details here: https://deepmind.google/discover/blog/state-of-the-art-video-and-image-generation-with-veo-2-and-imagen-3/
+2025-01-15 09:00:28,927 - INFO - Tweet posted successfully: {'data': {'text': "Oh look, DeepMind is back at it again with their shiny new toys! Veo 2 and Imagen 3 are the latest in video and image magic. And because they can't leave well enough alone, Whisk just had to join the party too. Who knew AI could be this exciting? 🎥✨ Check out all the cool…", 'id': '1879574384836583438', 'edit_history_tweet_ids': ['1879574384836583438']}}
+2025-01-15 09:00:28,928 - INFO - Updated article history
+2025-01-15 10:00:01,214 - INFO - Selected feed: https://www.jeffgeerling.com/blog.xml
+2025-01-15 10:00:02,445 - INFO - Found article: Top 10 ways to monitor Linux in the console
+2025-01-15 10:00:39,865 - INFO - Generated tweet: Oh boy, Linux monitoring in the console is like finding a hidden gem in grandma's attic—old yet surprisingly useful. 🕵️‍♂️ `top` might be your first stop, but let’s not pretend it's Instagram-ready with its vintage charm! While `btop` gives you that modern flair (check out [Jeff Geerling](https://www.jeffgeerling.com/#btop)), there are plenty of other cool cats to choose from. So, what’s your fave monitoring tool for Linux? 🐧 Let us know if I missed any!
+2025-01-15 10:00:40,295 - INFO - Tweet posted successfully: {'data': {'id': '1879589532020138266', 'edit_history_tweet_ids': ['1879589532020138266'], 'text': "Oh boy, Linux monitoring in the console is like finding a hidden gem in grandma's attic—old yet surprisingly useful. 🕵️\u200d♂️ `top` might be your first stop, but let’s not pretend it's Instagram-ready with its vintage charm! While `btop` gives you that modern flair (check out [Jeff…"}}
+2025-01-15 10:00:40,296 - INFO - Updated article history
+2025-01-15 11:00:01,529 - INFO - Selected feed: https://www.cisa.gov/uscert/ncas/alerts.xml
+2025-01-15 11:00:04,639 - INFO - Found article: Iranian Cyber Actors’ Brute Force and Credential Access Activity Compromises Critical Infrastructure Organizations
+2025-01-15 11:02:26,699 - INFO - Generated tweet: The article discusses a cybersecurity advisory issued by the Cybersecurity and Infrastructure Security Agency (CISA) regarding malicious cyber activity targeting U.S. government agencies and critical infrastructure sectors such as Information Technology, Communications Services, Energy, and Transportation Systems.
+
+### Key Points:
+
+1. **Advisory Issued**: CISA published an alert on August 7, 2024, about malicious cyber actors attempting to exploit vulnerabilities using a new software tool called "Cobalt."
+
+2. **Threat Actors**:
+   - The activity is linked to the Russian state-sponsored threat actor known as Nobelium.
+   - This group has been targeting U.S. government agencies and critical infrastructure since at least April 2024.
+
+3. **Methodology**: 
+   - Cobalt exploits zero-day vulnerabilities in Microsoft Exchange Server.
+   - It allows unauthorized access, data exfiltration, and additional malicious activities.
+
+4. **Mitigation Strategies**:
+   - Implement the latest security patches from software vendors.
+   - Use strong passwords and multi-factor authentication (MFA).
+   - Monitor network traffic for unusual activity.
+   - Educate employees about phishing attempts and other social engineering tactics.
+
+5. **Additional Resources**: 
+   - CISA provides a "Mitigations Guide" for further technical guidance on protecting against these threats.
+
+6. **Incident Details**:
+   - Nobelium's activities have been linked to various IP addresses and devices, including those registered with MFA.
+   - The advisory includes detailed timelines of the incidents and associated network data.
+
+### Recommendations:
+
+- Organizations are advised to stay updated with CISA’s advisories for ongoing threat intelligence.
+- Implement recommended security measures promptly to mitigate potential risks from such cyber threats. 
+
+For more information on this advisory, organizations can refer to CISA's official website or contact them directly.
+2025-01-15 11:02:27,070 - ERROR - Error: Error posting tweet: {"title":"Too Many Requests","detail":"Too Many Requests","type":"about:blank","status":429}
+2025-01-15 12:00:01,270 - INFO - Selected feed: https://www.fema.gov/news/news_region-ii.rss
+2025-01-15 12:00:02,725 - INFO - Found article: FEMA Awards Nearly $10.5 Million for the Central Specialized School of Visual Arts
+2025-01-15 12:01:10,293 - INFO - Generated tweet: Ah, FEMA is playing artsy philanthropist again! Nearly $10.5 million to spruce up "La Central," Puerto Rico's vintage art school that Hurricane Maria gave a royal beating. Think shiny new windows and roofs like it’s 1920s couture all over again. Bravo, FEMA, for keeping history in style while dodging future disasters! 🎨✨
+
+For the juicy deets: https://www.fema.gov/press-release/20250113/fema-awards-nearly-105-million-central-specialized-school-visual-arts
+2025-01-15 12:01:10,555 - ERROR - Error: Error posting tweet: {"title":"Too Many Requests","detail":"Too Many Requests","type":"about:blank","status":429}
+2025-01-15 13:00:01,764 - INFO - Selected feed: https://www.cncf.io/feed/
+2025-01-15 13:00:04,068 - INFO - Found article: KubeCon + CloudNativeCon Europe 2025 Schedule is Live, Brimming With Innovative and Insightful Cloud Native Content
+2025-01-15 13:02:41,247 - INFO - Generated tweet: ### KubeCon + CloudNativeCon Europe 2025: Exciting Event Schedule Now Available
+
+The Cloud Native Computing Foundation (CNCF) is thrilled to announce that the schedule for **KubeCon + CloudNativeCon Europe 2025** is now live. The event will take place in Amsterdam, Netherlands, from April 1–3, 2025, and promises an engaging experience filled with innovative and insightful cloud-native content.
+
+#### Event Highlights
+
+- **Diverse Program:** Attendees can look forward to a comprehensive program featuring keynotes, breakout sessions, workshops, and more.
+- **Keynote Speakers:** The event will feature talks by industry leaders, including Ben Hirschberg from Microsoft Azure, who will discuss "The Future of Kubernetes," as well as presentations on topics like "Cloud Native Security" and "Observability at Scale."
+- **Networking Opportunities:** Engage with peers in the community and explore collaborative opportunities.
+  
+#### Registration Information
+
+- **All-access Pass:** Includes main event access plus all CNCF-hosted co-located events on April 1, available until February 19, 2025.
+- **North America Only Pass:** For those attending the North American KubeCon + CloudNativeCon from April 2–4.
+
+#### Sponsors and Supporters
+
+KubeCon + CloudNativeCon is supported by a range of sponsors:
+
+- **Diamond Sponsors:** HAProxy, Microsoft Azure, Oracle, Red Hat, Solo.io
+- **Platinum Sponsors:** Akamai, Arm, AWS, CAST AI, Dash0, Google Cloud, Heroku, Isovalent, JFrog, Octopus Deploy, Prisma Cloud by Palo Alto Networks, Portworx by Pure Storage, and SUSE
+
+#### About CNCF
+
+The Cloud Native Computing Foundation is a nonprofit organization that fosters the growth of cloud-native technologies. It hosts critical open-source projects such as Kubernetes, Prometheus, and Envoy. With over 800 members globally, CNCF plays a pivotal role in shaping the future of technology infrastructure.
+
+For more information about KubeCon + CloudNativeCon Europe 2025 or to register for the event, visit [CNCF's official website](https://www.cncf.io/announcements/2025/01/15/kubecon-cloudnativecon-europe-2025-schedule-is-live-brimming-with-innovative-and-insightful-cloud-native-content/).
+2025-01-15 13:02:41,404 - ERROR - Error: Error posting tweet: {"title":"Too Many Requests","detail":"Too Many Requests","type":"about:blank","status":429}
+2025-01-15 14:00:01,611 - INFO - Selected feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCZUyPT9DkJWmS_DzdOi7RIA
+2025-01-15 14:00:03,033 - INFO - Found article: The job market isn't the problem - it's you
+2025-01-15 14:00:37,859 - INFO - Generated tweet: The job market isn't the problem—it's you! 🎯 Dive into Caleb's treasure trove of tech resources and level up your skills. Whether it's Python, C++, or system design, there’s something for everyone. Ready to crush those interviews? Check out his courses at https://calcur.tech/mentorship. Don’t just scroll—enroll! 😜💻
+
+[Article link: https://www.youtube.com/watch?v=FqRfBg4V8_s](https://www.youtube.com/watch?v=FqRfBg4V8_s)
+2025-01-15 14:00:38,146 - ERROR - Error: Error posting tweet: {"title":"Too Many Requests","detail":"Too Many Requests","type":"about:blank","status":429}
+2025-01-15 14:26:10,255 - INFO - Selected feed: https://blogs.loc.gov/loc/feed/
+2025-01-15 14:26:12,296 - INFO - Found article: Washington’s Plot to Kidnap a British Prince
+2025-01-15 14:27:48,191 - INFO - Generated tweet: So George Washington, Revolutionary War hero and all-around boss, approved a plot to kidnap Prince William like some sort of action movie scene. 🕵️‍♂️ Under Matthias Ogden's master plan, the prince was to be held hostage—respectfully, mind you! The whole thing never happened though (phew!), and King William IV later got a chuckle from Washington’s letter on it. Plot twist: Prince William became King William IV after his older brothers passed away with no heirs. Turns out, the guy owed Washington some gratitude for not getting kidnapped. 🤓😂 Find more deets in the Library of Congress Magazine! [https://blogs.loc.gov/loc/2025/01/washingtons-plot-to-kidnap-a-british-prince/]
+2025-01-15 14:27:48,360 - ERROR - Error: Error posting tweet: {"title":"Too Many Requests","detail":"Too Many Requests","type":"about:blank","status":429}
+2025-01-15 14:41:17,510 - INFO - Selected feed: https://www.mongodb.com/blog/rss
+2025-01-15 14:41:19,513 - INFO - Found article: Building a Unified Data Platform for Gen AI
+2025-01-15 14:43:56,088 - INFO - Generated tweet: Certainly! Here's a concise summary of the article:
+
+### Building Unified Data Platforms for Generative AI
+
+**Introduction**:  
+The article discusses how data has transformed from being a mere asset to a critical driver of innovation, particularly in the context of generative artificial intelligence (Gen AI). It emphasizes the need for a unified data platform to support real-time data processing and enhance operational efficiency.
+
+**Unified Data Platform Benefits**:  
+1. **Real-Time Processing**: Real-time data enables immediate insights and decision-making.
+2. **Operational Efficiency**: A unified platform reduces manual tasks, allowing teams to focus on strategic initiatives.
+3. **Customer Experience**: Personalized recommendations improve customer relationships.
+
+**Technological Solutions**:  
+- **MongoDB**: Offers a flexible operational layer for both lambda and kappa architectures, supporting real-time data streams and historical batch processing.
+- **Lambda Architecture**: Combines batch and speed layers with a serving layer powered by MongoDB to provide unified data views.
+- **Kappa Architecture**: Focuses on real-time analytics using MongoDB as the operational speed layer.
+
+**Data Modernization Journey**:  
+1. **Basic Operational Data Store**: Offloads read-heavy workloads from legacy systems into MongoDB.
+2. **Enriched ODL (Operational Data Layer)**: Adds real-time analytics for actionable insights.
+3. **Parallel Writes**: Enhances speed and reliability for write-heavy operations.
+4. **System of Transaction**: Replaces monolithic systems with agile microservices connected to MongoDB.
+5. **System of Record**: Utilizes a domain-driven architecture with MongoDB for scalability and efficiency.
+
+**Conclusion**:  
+The article concludes by highlighting the transformative potential of integrating real-time data architectures with advanced AI capabilities. It encourages businesses to modernize their data platforms, innovate, and unlock their full data potential using solutions like MongoDB.
+
+### Call to Action:
+Discover how Tata Consultancy Services (TCS) and MongoDB are collaborating to harmonize technologies for a future-ready data strategy. Start your data modernization journey today! 
+
+For more details, visit the [MongoDB blog post](https://www.mongodb.com/blog/post/building-unified-data-platform-for-gen-ai).
+2025-01-15 14:43:56,303 - ERROR - Error: Error posting tweet: {"title":"Too Many Requests","detail":"Too Many Requests","type":"about:blank","status":429}
+2025-01-15 14:45:18,494 - INFO - Selected feed: https://aws.amazon.com/about-aws/whats-new/recent/feed/
+2025-01-15 14:45:19,912 - INFO - Found article: AWS Elastic Beanstalk adds additional Spot allocation strategies
+2025-01-15 14:47:42,770 - INFO - Generated tweet: In today's dynamic cloud computing landscape, AWS Elastic Beanstalk has broadened its horizons by introducing three new Spot allocation strategies: capacity-optimized-prioritized, lowest-price, and price-capacity-optimized. These options empower developers to deploy applications with enhanced flexibility—opting for the most cost-effective solutions without sacrificing performance or availability. Whether your priority lies in minimizing costs or ensuring a specific instance type's availability, these strategies offer tailored solutions that align perfectly with diverse workload requirements across commercial regions, including AWS GovCloud (US). Embrace the power of choice and optimize your cloud resources like never before. Discover more about how Elastic Beanstalk can transform your application deployment experience at [https://aws.amazon.com/about-aws/whats-new/2025/01/aws-elastic-beanstalk-spot-allocation-strategies](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-elastic-beanstalk-spot-allocation-strategies).
+2025-01-15 14:47:42,991 - ERROR - Error: Error posting tweet: {"title":"Too Many Requests","detail":"Too Many Requests","type":"about:blank","status":429}
+2025-01-15 14:52:20,462 - INFO - Selected feed: https://www.defense.gov/DesktopModules/ArticleCS/RSS.ashx?ContentType=400&Site=945&max=10
+2025-01-15 14:52:21,842 - INFO - Found article: Contracts for Jan. 14, 2025
+2025-01-15 14:52:43,835 - INFO - Generated tweet: 📢 Big news from the Pentagon! A fresh batch of defense contracts totaling over $7.5M is now available for review at Defense.gov. 🛡️ As we gear up for 2025, these deals highlight ongoing commitments to innovation and security. What are your thoughts on how these investments shape our future? Check them out here: [https://www.defense.gov/News/Contracts/Contract/Article/4029162//](https://www.defense.gov/News/Contracts/Contract/Article/4029162//) #DefenseContracts #InnovationSecurity
+2025-01-15 14:52:43,978 - ERROR - Error: Error posting tweet: {"title":"Too Many Requests","detail":"Too Many Requests","type":"about:blank","status":429}
+2025-01-15 15:02:25,727 - INFO - Selected feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKILJTZISRLxQmiUgwg94Hw
+2025-01-15 15:02:27,072 - ERROR - Error in main loop: No entries found in feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKILJTZISRLxQmiUgwg94Hw
+2025-01-15 15:02:27,072 - INFO - Sleeping for 3600 seconds...
+2025-01-15 15:02:32,632 - INFO - Bot stopped by user
+2025-01-15 15:02:51,307 - INFO - Selected feed: https://www.r-bloggers.com/feed/
+2025-01-15 15:02:52,371 - INFO - Found article: Best Prompt Engineering Books
+2025-01-15 15:03:24,720 - INFO - Generated summary: 📚 **Dive into Prompt Engineering with Top Picks!** 🚀
+
+Exploring the burgeoning field of prompt engineering? Uncover the best books to master crafting high-quality input prompts for accurate and insightful AI responses. Discover essential reads featured on Data Science Tutorials, your go-to guide for advancing in data science today. Check out the full list [here](https://www.r-bloggers.com/2025/01/best-prompt-engineering-books/) and be part of shaping the future! 🌟
+2025-01-15 15:03:24,721 - ERROR - Error in main loop: '7506394' is not in valid range of colors. The valid ranges of colors are 0 to 16777215 inclusive (INTEGERS) and 0 to FFFFFF inclusive (HEXADECIMAL).
+2025-01-15 15:03:24,721 - INFO - Sleeping for 2 seconds...
+2025-01-15 15:03:26,723 - INFO - Selected feed: http://feeds.feedburner.com/PythonInsider
+2025-01-15 15:03:28,269 - INFO - Found article: Python 3.14.0 alpha 4 is out
+2025-01-15 15:03:52,157 - INFO - Generated summary: 🎉 Exciting news for Python enthusiasts! The fourth alpha version of Python 3.14.0 (alpha 4) has been released, marking a significant early preview in the development process of this upcoming series. With seven more alphas to go before the final release, Python 3.14 promises to introduce major new features compared to its predecessor, 3.13. Check out what's new and get involved by downloading it from [Python's official site](https://www.python.org/downloads/release/python-3140a4/). Dive in and see how this version can shape the future of Python development! 🚀
+2025-01-15 15:03:52,158 - ERROR - Error in main loop: '7506394' is not in valid range of colors. The valid ranges of colors are 0 to 16777215 inclusive (INTEGERS) and 0 to FFFFFF inclusive (HEXADECIMAL).
+2025-01-15 15:03:52,158 - INFO - Sleeping for 2 seconds...
+2025-01-15 15:03:54,158 - INFO - Selected feed: https://www.cncf.io/feed/
+2025-01-15 15:03:55,868 - INFO - Found article: KubeCon + CloudNativeCon Europe 2025 Schedule is Live, Brimming With Innovative and Insightful Cloud Native Content
+2025-01-15 15:04:19,755 - INFO - Generated summary: 🌟 Exciting news for cloud enthusiasts! KubeCon + CloudNativeCon Europe 2025 is set to take place in London, bringing together the brightest minds from the open source community. Mark your calendars: January 15th, 2025! 🗓️ This event promises a wealth of innovative and insightful content as presented by the Cloud Native Computing Foundation (CNCF). Whether you're looking to network with peers or dive deep into the latest cloud technologies, this is not one to miss. Stay tuned for more details on sessions and speakers – it's going to be an electrifying gathering! ⚡️ #KubeCon2025 #CloudNativeEurope
+2025-01-15 15:04:19,755 - ERROR - Error in main loop: '7506394' is not in valid range of colors. The valid ranges of colors are 0 to 16777215 inclusive (INTEGERS) and 0 to FFFFFF inclusive (HEXADECIMAL).
+2025-01-15 15:04:19,755 - INFO - Sleeping for 2 seconds...
+2025-01-15 15:04:21,756 - INFO - Selected feed: https://www.nature.com/nri.rss
+2025-01-15 15:04:22,788 - INFO - Found article: ‘Transcriptotype’ explains phenotypic variability of inborn errors of immunity
+2025-01-15 15:04:36,426 - INFO - Bot stopped by user
+2025-01-15 15:04:46,812 - INFO - Selected feed: https://planetpython.org/rss20.xml
+2025-01-15 15:04:47,681 - INFO - Found article: The Python Show: 52 - PyTorch and LLMs with Daniel Voigt Godoy
+2025-01-15 15:05:07,614 - INFO - Generated summary: 🎙️ **The Python Show: 52** features an exciting chat with Daniel Voigt Godoy, author of *Deep Learning with PyTorch Step-by-Step*. In this episode, they dive into favorite Python packages and explore the world of PyTorch. Plus, get insights from Daniel about his book writing process and much more! 🚀 Check out the links section for all things Daniel Voigt Godoy.
+
+#PyTorch #PythonBooks #DeepLearningPodcast
+2025-01-15 15:05:07,981 - INFO - Posted to Discord successfully
+2025-01-15 15:05:07,981 - INFO - Updated article history
+2025-01-15 15:05:07,982 - INFO - Sleeping for 3 seconds...
+2025-01-15 15:05:10,982 - INFO - Selected feed: https://www.fema.gov/news/news_region-v.rss
+2025-01-15 15:05:12,331 - INFO - Found article: FEMA Provides $7.9 Million to Indiana for Vaccine Distribution Support
+2025-01-15 15:05:26,758 - INFO - Generated summary: Great news for Indiana! FEMA has allocated $7.9 million to support vaccine distribution efforts as part of their ongoing partnership with the Indiana Department of Homeland Security. This funding aims to enhance logistics and ensure efficient delivery across the state, helping keep Hoosiers safe during these crucial times. 🎉💉 #PublicHealth #VaccineEfforts
+2025-01-15 15:05:27,018 - INFO - Posted to Discord successfully
+2025-01-15 15:05:27,019 - INFO - Updated article history
+2025-01-15 15:05:27,019 - INFO - Sleeping for 3 seconds...
+2025-01-15 15:05:30,019 - INFO - Selected feed: http://blogs.loc.gov/law/feed/
+2025-01-15 15:05:32,808 - INFO - Found article: FALQs: Regulation of Cryptocurrencies in the Gulf Cooperation Council Countries – Part Two
+2025-01-15 15:05:49,621 - INFO - Generated summary: Hey everyone! 🌟 In this exciting continuation of our FALQ series, Muneera Al-Khalifa dives into the intricacies of cryptocurrency regulation within three key Gulf Cooperation Council (GCC) countries. This part two offers in-depth insights and updates on how these nations are navigating the digital currency landscape. If you missed the first installment, make sure to catch up for a comprehensive understanding! 🔍💡 #CryptoRegulation #FALQseries
+2025-01-15 15:05:49,828 - INFO - Posted to Discord successfully
+2025-01-15 15:05:49,829 - INFO - Updated article history
+2025-01-15 15:05:49,829 - INFO - Sleeping for 3 seconds...
+2025-01-15 15:05:52,830 - INFO - Selected feed: https://www.hashicorp.com/blog/products/terraform/feed.xml
+2025-01-15 15:05:53,128 - INFO - Found article: Terraform delivers launch-day support for Amazon S3 Tables, EKS Hybrid Nodes, and more at re:Invent
+2025-01-15 15:06:13,250 - INFO - Generated summary: 🚀 Big news from re:Invent! The Terraform AWS provider just celebrated its 10th anniversary with some exciting new features for managing your AWS resources. You can now seamlessly integrate Amazon S3 Tables, EKS Hybrid Nodes, and more into your workflows using Terraform’s powerful configuration language. With over three billion downloads, it's clear that this tool is a game-changer for cloud management! 🌟
+
+If you're keen on exploring how these updates might streamline your AWS projects, check out the latest from Terraform at re:Invent. #CloudManagement #Terraform #AWS
+2025-01-15 15:06:13,550 - INFO - Posted to Discord successfully
+2025-01-15 15:06:13,551 - INFO - Updated article history
+2025-01-15 15:06:13,551 - INFO - Sleeping for 3 seconds...
+2025-01-15 15:06:16,552 - INFO - Selected feed: https://www.defense.gov/DesktopModules/ArticleCS/RSS.ashx?ContentType=800&Site=945&max=10
+2025-01-15 15:06:18,208 - INFO - Found article: Officer on Carter's Casket Detail Follows Unconventional Path to International Spotlight
+2025-01-15 15:06:28,980 - INFO - Generated summary: Capt. Sean Conaway led a joint service honor guard at the state funeral of former President Jimmy Carter, showcasing his unique journey to international recognition. His role in this high-profile event highlights an unconventional path within military honors duties, marking a notable chapter in his career. This spotlight underscores the blend of tradition and personal achievement in such prestigious assignments. 🌟
+2025-01-15 15:06:29,248 - INFO - Posted to Discord successfully
+2025-01-15 15:06:29,249 - INFO - Updated article history
+2025-01-15 15:06:29,249 - INFO - Sleeping for 3 seconds...
+2025-01-15 15:06:30,610 - INFO - Bot stopped by user
+2025-01-15 15:19:39,188 - INFO - Selected feed: https://feeds.feedburner.com/oreilly/radar/atom
+2025-01-15 15:19:40,853 - INFO - Found article: Technology Trends for 2025
+2025-01-15 15:20:05,648 - INFO - Generated summary: Hey team! 🎉 Dive into this year's O'Reilly learning platform report, highlighting a thrilling wave of AI breakthroughs alongside some industry shake-ups like layoffs. As generative AI hits its stride, the spotlight now turns to developers—how they’ll integrate these advancements is what’s really exciting. Get ready for innovation and new applications! 🚀 #TechTrends2025
+2025-01-15 15:20:05,978 - INFO - Posted to Slack successfully
+2025-01-15 15:20:05,979 - INFO - Updated article history
+2025-01-15 15:20:05,979 - INFO - Sleeping for 30 seconds...
+2025-01-15 15:20:35,980 - INFO - Selected feed: https://www.aba.com/rss/press
+2025-01-15 15:20:39,104 - INFO - Found article: ABA Unveils Key Policy Priorities in Newly Released 2025 Blueprint for Growth
+2025-01-15 15:20:49,240 - INFO - Generated summary: The American Bankers Association (ABA) has just dropped their 2025 Blueprint for Growth, spotlighting crucial policy priorities for the banking industry. This roadmap aims to fuel growth and innovation while addressing key challenges like regulatory reforms and digital transformation. It's a significant step in shaping the future of banking in the U.S.! 📈🏦
+2025-01-15 15:20:49,533 - INFO - Posted to Slack successfully
+2025-01-15 15:20:49,534 - INFO - Updated article history
+2025-01-15 15:20:49,534 - INFO - Sleeping for 30 seconds...
+2025-01-15 15:21:19,534 - INFO - Selected feed: https://www.govinfo.gov/rss/uscourts-ca1.xml
+2025-01-15 15:21:21,283 - INFO - Found article: 23-2094 - Bonnet, et al v. Whitaker, et al
+2025-01-15 15:21:51,441 - INFO - Generated summary: Hey team! Just wanted to share some quick info about the case "Bonnet, et al v. Whitaker, et al." If you're interested in digging deeper into its metadata, here's where you can find it: 
+
+- **Descriptive Metadata (MODS)** is available [here](https://www.govinfo.gov/metadata/pkg/USCOURTS-ca1-23-02094/mods.xml).
+- **Preservation Metadata (PREMIS)** can be accessed [here](https://www.govinfo.gov/metadata/pkg/USCOURTS-ca1-23-02094/premis.xml).
+
+For all content and metadata files, including granules, you can download a ZIP file from this link: [ZIP File](https://www.govinfo.gov/content/pkg/USCOURTS-ca1-23-02094.zip). 
+
+Feel free to explore these resources if they're relevant to your work! 📂🔍
+2025-01-15 15:21:51,699 - INFO - Posted to Slack successfully
+2025-01-15 15:21:51,701 - INFO - Updated article history
+2025-01-15 15:21:51,701 - INFO - Sleeping for 30 seconds...
+2025-01-15 15:22:21,701 - INFO - Selected feed: http://blogs.loc.gov/folklife/feed/
+2025-01-15 15:22:23,849 - INFO - Found article: Community Collections Grant: Los Pleneros de la 21 and Documenting Bomba and Plena Musicians in the Diaspora
+2025-01-15 15:22:45,753 - INFO - Generated summary: **Exciting News!** 🎉 Los Pleneros de la 21, a vibrant NYC-based group dedicated to bomba and plena music, has been awarded the Community Collections Grant by the American Folklife Center. This grant will enable them to document musicians, educators, and community figures involved in these rich Puerto Rican musical traditions across New York, New Jersey, and Connecticut. In an insightful interview with LeAna López, the project’s primary interviewer, she shares more about this exciting journey! 🎶✨
+
+Stay tuned for more updates on how they’re preserving these cultural treasures! #CommunityCollectionsGrant #BombaAndPlenaMusic
+2025-01-15 15:22:46,000 - INFO - Posted to Slack successfully
+2025-01-15 15:22:46,001 - INFO - Updated article history
+2025-01-15 15:22:46,001 - INFO - Sleeping for 30 seconds...
+2025-01-15 15:23:01,214 - INFO - Bot stopped by user
+2025-01-15 15:23:59,418 - INFO - Selected feed: http://blogs.loc.gov/inside_adams/feed/
+2025-01-15 15:24:01,294 - INFO - Found article: Cookbooks from Plains, Georgia and Carter Family Recipes
+2025-01-15 15:24:18,604 - INFO - Generated summary: Hey team! Just came across a charming piece about President Carter and First Lady Rosalynn Carter that ties into their beloved hometown of Plains, Georgia. It's a heartfelt collection of recipes and stories from local cookbooks that celebrate their legacy and the warm community they cherished. A delightful reminder of how food can connect us to history and meaningful memories! 🍲📚
+2025-01-15 15:24:18,863 - INFO - Posted to Slack successfully
+2025-01-15 15:24:18,864 - INFO - Updated article history
+2025-01-15 15:24:18,864 - INFO - Sleeping for 30 seconds...
+2025-01-15 15:24:48,864 - INFO - Selected feed: https://www.databricks.com/feed
+2025-01-15 15:24:50,227 - INFO - Found article: Wizerr AI: Revolutionizing Electronics Design and Procurement with Databricks
+2025-01-15 15:25:06,162 - INFO - Generated summary: Hey team! 🚀 Check out this intriguing article on Wizerr AI and how they're revolutionizing electronics design with Databricks. It dives into the rapid evolution of electronic products due to demand across consumer devices, energy, transport, and more. Could be a cool inspiration for streamlining our procurement processes or enhancing our tech stack. 🤖💡
+
+If you want to explore further, let me know!
+2025-01-15 15:25:06,406 - INFO - Posted to Slack successfully
+2025-01-15 15:25:06,407 - INFO - Updated article history
+2025-01-15 15:25:06,407 - INFO - Sleeping for 30 seconds...
+2025-01-15 15:25:12,812 - INFO - Bot stopped by user
+2025-01-15 15:25:14,451 - INFO - Selected feed: https://www.rstudio.com/blog/index.xml
+2025-01-15 15:25:16,994 - ERROR - Error in main loop: No entries found in feed: https://www.rstudio.com/blog/index.xml
+2025-01-15 15:25:16,994 - INFO - Sleeping for 30 seconds...
+2025-01-15 15:25:21,550 - INFO - Bot stopped by user
+2025-01-15 15:25:22,185 - INFO - Selected feed: https://www.congress.gov/rss/notification.xml
+2025-01-15 15:25:23,427 - INFO - Found article: Congress.gov Notifications Register Now to Attend the Congressional Data Task Force Meeting on 12/12
+2025-01-15 15:25:40,374 - INFO - Generated summary: Hey team, if you're interested in how data transparency and legislative updates are evolving, consider attending the Congressional Data Task Force Meeting on December 12, 2024. They'll be discussing recent enhancements to Congress.gov along with insights from various legislative branch partners. It could provide some valuable context for our work around data governance and public-facing systems! 📅👩‍💻
+2025-01-15 15:25:40,619 - INFO - Posted to Slack successfully
+2025-01-15 15:25:40,620 - INFO - Updated article history
+2025-01-15 15:25:40,620 - INFO - Sleeping for 30 seconds...
+2025-01-15 15:26:10,620 - INFO - Selected feed: https://www.nature.com/subjects/machine-learning.rss
+2025-01-15 15:26:11,627 - INFO - Found article: AI-designed antivenoms could help treat lethal snakebites
+2025-01-15 15:26:21,208 - INFO - Generated summary: Hey team! 🐍✨ Did you know that researchers are using AI to design new antivenoms? This breakthrough could significantly improve treatments for deadly snakebites, potentially saving lives in remote areas. It's a great example of how technology is advancing healthcare solutions—something we can be inspired by in our own work here at the hospital! 🌟
+2025-01-15 15:26:21,433 - INFO - Posted to Slack successfully
+2025-01-15 15:26:21,435 - INFO - Updated article history
+2025-01-15 15:26:21,435 - INFO - Sleeping for 30 seconds...
+2025-01-15 15:26:40,647 - INFO - Bot stopped by user
+2025-01-15 15:26:41,275 - INFO - Selected feed: https://www.defense.gov/DesktopModules/ArticleCS/RSS.ashx?ContentType=2&Site=945&max=10
+2025-01-15 15:26:42,622 - INFO - Found article: Media Backgrounder: "14th Quadrennial Review of Military Compensation (QRMC)," Today, January 15, 2025, at 10 a.m. EST via Zoom
+2025-01-15 15:26:58,009 - INFO - Generated summary: Hey team! Just wanted to drop a quick note about today's Zoom briefing at 10 a.m. EST, where senior defense officials will discuss the "14th Quadrennial Review of Military Compensation." It might not be directly related to our work, but it's always interesting to see how big organizations like the DoD approach compensation strategies. 📊💼
+2025-01-15 15:26:58,253 - INFO - Posted to Slack successfully
+2025-01-15 15:26:58,254 - INFO - Updated article history
+2025-01-15 15:26:58,255 - INFO - Sleeping for 30 seconds...
+2025-01-15 15:27:28,255 - INFO - Selected feed: https://aws.amazon.com/blogs/architecture/feed/
+2025-01-15 15:27:29,698 - INFO - Found article: TVS Supply Chain Solutions built a file transfer platform using AWS Transfer Family for AS2 for B2B collaboration
+2025-01-15 15:27:43,345 - INFO - Generated summary: Hey team, have you seen how TVS Supply Chain Solutions leveraged AWS Transfer Family for AS2 to modernize their B2B file transfers? This move not only boosts efficiency and compliance but also enhances customer satisfaction. It's a great example of transforming traditional processes with cloud services—something we could explore for our own workflows! 🚀
+2025-01-15 15:27:43,586 - INFO - Posted to Slack successfully
+2025-01-15 15:27:43,587 - INFO - Updated article history
+2025-01-15 15:27:43,587 - INFO - Sleeping for 30 seconds...
+2025-01-15 15:28:13,588 - INFO - Selected feed: https://www.copyright.gov/rss/eservice.xml
+2025-01-15 15:28:15,270 - INFO - Found article: Accommodation for Copyright Office Correspondence Deadlines between August 10 and September 9
+2025-01-15 15:28:33,385 - INFO - Generated summary: Hey team, just a heads-up about some recent updates: the Copyright Office is extending correspondence deadlines from August 10 to September 9. This might affect any documentation or compliance processes we have related to copyrights for our data projects, so let's keep an eye on how this impacts our timelines and workflows. If you're working on anything that could be influenced by these changes, please review your plans accordingly! 📅🔍
+2025-01-15 15:28:33,650 - INFO - Posted to Slack successfully
+2025-01-15 15:28:33,651 - INFO - Updated article history
+2025-01-15 15:28:33,651 - INFO - Sleeping for 30 seconds...
+2025-01-15 15:29:03,652 - INFO - Selected feed: https://www.cisa.gov/uscert/ncas/all.xml
+2025-01-15 15:29:05,233 - INFO - Found article: CISA Releases Microsoft Expanded Cloud Logs Implementation Playbook
+2025-01-15 15:29:19,679 - INFO - Generated summary: Hey team! 🚀 CISA just dropped the "Microsoft Expanded Cloud Logs Implementation Playbook," a must-read for anyone looking to enhance their security posture with Microsoft Purview Audit logs. It’s packed with step-by-step guidance to help us better detect and defend against advanced threats using expanded cloud logs—definitely something worth exploring as we aim to bolster our data protection strategies! 🛡️💻
+2025-01-15 15:29:19,913 - INFO - Posted to Slack successfully
+2025-01-15 15:29:19,914 - INFO - Updated article history
+2025-01-15 15:29:19,914 - INFO - Sleeping for 30 seconds...
+2025-01-15 15:29:49,915 - INFO - Selected feed: http://forums.rancher.com/c/announcements.rss
+2025-01-15 15:29:53,098 - INFO - Found article: Kubernetes v1.28.15, v1.29.10, and v1.30.6
+2025-01-15 15:30:14,963 - INFO - Generated summary: Hey team! 👋
+
+Just a heads up—Kubernetes v1.28.15 is now available for Rancher v2.8.3+, and versions 1.29.10 and 1.30.6 are out too for Rancher v2.9.0+. If you're running air-gapped setups, there's something extra to note about these updates. Let's make sure our environments stay up-to-date with the latest security patches and features! 🛠️
+
+If anyone needs help rolling these out or has questions, feel free to ping me!
+2025-01-15 15:30:15,238 - INFO - Posted to Slack successfully
+2025-01-15 15:30:15,239 - INFO - Updated article history
+2025-01-15 15:30:15,239 - INFO - Sleeping for 30 seconds...
+2025-01-15 15:30:45,240 - INFO - Selected feed: https://blog.finxter.com/feed/
+2025-01-15 15:30:46,351 - INFO - Found article: Reflections on Reaching 16 Million People Online in Four Years
+2025-01-15 15:31:01,890 - INFO - Generated summary: Hey team! 🌟 I stumbled upon an inspiring story about a platform called Finxter, which managed to educate over 16 million people online in just four years. It's a powerful reminder of how impactful our work can be when we're focused on improving collective intelligence and delivering value. Let's keep this spirit alive as we continue to innovate and enhance our projects at the hospital! 🚀
+2025-01-15 15:31:02,116 - INFO - Posted to Slack successfully
+2025-01-15 15:31:02,117 - INFO - Updated article history
+2025-01-15 15:31:02,117 - INFO - Sleeping for 30 seconds...
+2025-01-15 15:31:32,118 - INFO - Selected feed: http://forums.rancher.com/c/application-platform.rss
+2025-01-15 15:31:33,488 - ERROR - Error in main loop: No entries found in feed: http://forums.rancher.com/c/application-platform.rss
+2025-01-15 15:31:33,488 - INFO - Sleeping for 30 seconds...
+2025-01-15 15:32:03,488 - INFO - Selected feed: https://cloudblog.withgoogle.com/products/devops-sre/rss
+2025-01-15 15:32:06,447 - INFO - Found article: Avoid global outages by partitioning cloud applications to reduce blast radius
+2025-01-15 15:32:24,987 - INFO - Generated summary: Hey team! 🌟 Here's an interesting read on how partitioning cloud applications can help us avoid global outages by reducing the blast radius: ["Avoid global outages by partitioning cloud applications to reduce blast radius"](https://example.com/article). This piece highlights the balance between maintaining high availability and evolving our cloud apps without introducing bugs. It’s a must-read for anyone looking to enhance our application resilience! 🚀 Let me know your thoughts or if you want more details on specific strategies they mention. #CloudResilience #DevOpsTips
+2025-01-15 15:32:25,264 - INFO - Posted to Slack successfully
+2025-01-15 15:32:25,265 - INFO - Updated article history
+2025-01-15 15:32:25,265 - INFO - Sleeping for 30 seconds...
+2025-01-15 15:32:55,266 - INFO - Selected feed: https://www.pulumi.com/blog/rss.xml
+2025-01-15 15:32:56,431 - INFO - Found article: A Recipe for a Better AI-based Code Generator
+2025-01-15 15:33:09,763 - INFO - Generated summary: Hey team! 🌟
+
+This article draws an intriguing parallel between Anthony Bourdain's culinary research process and modern AI code generation. It suggests that like a chef blending formal training with local insights, AI should integrate domain-specific knowledge to enhance its coding capabilities. Worth considering how we might apply similar strategies for our own projects!
+
+Cheers,
+[Your Name]
+2025-01-15 15:33:09,988 - INFO - Posted to Slack successfully
+2025-01-15 15:33:09,990 - INFO - Updated article history
+2025-01-15 15:33:09,990 - INFO - Sleeping for 30 seconds...
+2025-01-15 15:33:39,990 - INFO - Selected feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCs10x-muRrTQMJ4Ya-fmIlw
+2025-01-15 15:33:41,331 - INFO - Found article: The Evolution of Notebooks | Built[By] Will Pugh
+2025-01-15 15:33:57,164 - INFO - Generated summary: Hey team! 🌟 If you're into data and analytics tools, this video from Principal Software Engineer Will Pugh is a must-watch. He walks us through the evolution of Snowflake Notebooks, highlighting how they blend SQL, Python, and ML for an integrated workflow. Plus, he shares insights on innovative features like interactive widgets and built-in visualizations that enhance user experience. 🎥✨ Definitely worth checking out! #Innovation #DataTools
+2025-01-15 15:33:57,429 - INFO - Posted to Slack successfully
+2025-01-15 15:33:57,430 - INFO - Updated article history
+2025-01-15 15:33:57,430 - INFO - Sleeping for 30 seconds...
+2025-01-15 15:34:27,430 - INFO - Selected feed: https://www.defense.gov/DesktopModules/ArticleCS/RSS.ashx?ContentType=11&Site=945&max=10
+2025-01-15 15:34:28,988 - INFO - Found article: Remarks by Deputy Secretary of Defense Kathleen H. Hicks at the Defense Innovation Board's Public Meeting
+2025-01-15 15:34:39,496 - INFO - Generated summary: Hey team! 🚀 Just a quick heads-up on some industry insights from the recent Defense Innovation Board's public meeting. Deputy Defense Sec. Kathleen Hicks highlighted key innovations and strategic directions for defense tech, which might offer some parallels to our own DevOps initiatives in healthcare. It’s always inspiring to see how cross-sector advancements can inform our practices! 🌟
+2025-01-15 15:34:39,721 - INFO - Posted to Slack successfully
+2025-01-15 15:34:39,722 - INFO - Updated article history
+2025-01-15 15:34:39,722 - INFO - Sleeping for 30 seconds...
+2025-01-15 15:34:41,604 - INFO - Bot stopped by user
