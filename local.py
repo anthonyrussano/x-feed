@@ -58,11 +58,12 @@ class RssTweetBot:
         """Read RSS feed URLs from file and select a random one."""
         with open(file_path, 'r') as f:
             feeds = f.read().splitlines()
-            # Filter out empty lines and comments, then get only the URL part before '!'
+            # Filter out empty lines and comments
             valid_feeds = []
             for line in feeds:
                 if line and not line.startswith('#'):
-                    url = line.split('!')[0].strip()
+                    # Split on first whitespace and take only the URL part
+                    url = line.split()[0].strip()
                     valid_feeds.append(url)
             return random.choice(valid_feeds)
 
@@ -97,15 +98,24 @@ class RssTweetBot:
                 "messages": [
                     {
                         "role": "system",
-                        "content": "You are a social media expert who creates engaging tweets. Your tweets should be informative yet conversational. IMPORTANT: Replace any [URL] placeholder with the actual article URL in your response. The full article URL must be included in the tweet."
+                        "content": (
+                            "You are a social media expert who writes short, engaging tweets in plain text. "
+                            "The tweet must not exceed 280 characters. Do not use markdown formatting, bullet points, or headings. "
+                            "You must include the full article URL plainly in the text (no placeholders like '[URL]'). "
+                            "Make the tweet conversational and enticing, but keep it concise. "
+                            "Do not include code blocks or references to code details."
+                        )
                     },
                     {
                         "role": "user",
-                        "content": f"""Read this article and create an engaging tweet about it:
-                        
-                        Title: {article['title']}
-                        Content: {article['description']} {article['content']}
-                        URL: {article['link']}"""
+                        "content": (
+                            f"Here is the article information:\n"
+                            f"Title: {article['title']}\n"
+                            f"Content: {article['description']} {article['content']}\n"
+                            f"Article link: {article['link']}\n\n"
+                            "Please write a short, plain-text tweet (under 280 characters) "
+                            "that includes the article URL and entices readers to check it out."
+                        )
                     }
                 ],
                 "model": "phi4:14b",
@@ -119,6 +129,7 @@ class RssTweetBot:
             
         tweet_text = response.json()['choices'][0]['message']['content'].strip()
         return tweet_text
+
 
     def post_tweet(self, tweet_text):
         """Post tweet to X (Twitter) using OAuth."""
