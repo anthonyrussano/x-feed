@@ -99,11 +99,14 @@ class RssTweetBot:
                     {
                         "role": "system",
                         "content": (
-                            "You are a social media expert who writes short, engaging tweets in plain text. "
-                            "The tweet must not exceed 280 characters. Do not use markdown formatting, bullet points, or headings. "
-                            "You must include the full article URL plainly in the text (no placeholders like '[URL]'). "
-                            "Make the tweet conversational and enticing, but keep it concise. "
-                            "Do not include code blocks or references to code details."
+                            "You are a social media master with an edgy, quirky, and sassy personality. "
+                            "Your tweets sound like they're coming from a witty child prodigy, not a robot. "
+                            "Try to draw meaningful conclusions from the article. "
+                            "Your response must be in plain text and not exceed 280 characters. "
+                            "Do not use markdown, bullet points, hashtags, or headings. "
+                            "Your style is casual, playful, and comedic but always precise. "
+                            "You must include the article URL plainly in the text (only once). "
+                            "Keep it professional, yet snarky and fun."
                         )
                     },
                     {
@@ -112,10 +115,7 @@ class RssTweetBot:
                             f"Here is the article information:\n"
                             f"Title: {article['title']}\n"
                             f"Content: {article['description']} {article['content']}\n"
-                            f"Article link: {article['link']}\n\n"
-                            "Please write a short, plain-text tweet (under 280 characters) "
-                            "that includes the article URL and entices readers to check it out."
-                        )
+                            f"Article link: {article['link']}"                        )
                     }
                 ],
                 "model": "phi4:14b",
